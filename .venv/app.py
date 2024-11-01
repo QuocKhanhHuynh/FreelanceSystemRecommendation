@@ -29,5 +29,14 @@ def recommend(id):
         for x in result]
     return jsonify({"result": result})
 
+@app.route('/api/recommend2/<int:id>', methods=['GET'])
+def recommend2(id):
+    result = get.getRecommend2(id)
+    result = [
+        int(x) if isinstance(x, (np.int64, np.int32)) else float(x) if isinstance(x, (np.float64, np.float32)) else x
+        for x in result]
+    return jsonify({"result": result})
+
+
 if __name__ == '__main__':
     app.run(debug=True)
