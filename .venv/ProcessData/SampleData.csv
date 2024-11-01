@@ -1,0 +1,252 @@
+ID,Tên công việc,Mô tả,Loại công việc,Loại lương,Yêu cầu,Danh sách kỹ năng,Lĩnh vực
+1,Lập trình web bán hàng,Cần lập trình viên có ít nhất 2 năm kinh nghiệp với các công nghệ có liên quan,1,2,,"['HTML/CSS', 'MongoDB', 'Node.JS']",IT
+2,Thiết kế giao diện website,Cần người có kinh nghiệm về Frontend,2,1,,['HTML/CSS'],IT
+1002,Lập trình web bán hàng,Cần có kỹ năng,1,2,,"['HTML/CSS', 'Java', 'OOP']",Finance
+2002,Dự án demo,Mô tả dự án,1,2,,"['HTML/CSS', '.NET']",IT
+3010,Lập bảng tính (chứa công thức) số liệu trong excel,Tôi cần lập 1 trang tính Excel chứa công thức tính toán các số liệu nhập vào để ra 1 kết quả cụ thể,1,2,Từng làm dự án tương tự,"['Python', 'Microsoft Excel']",Phần mềm
+3012,Thiết kế App quản lý bảo trì,"Thiết kế APP sử dụng cho công ty cần có các chức năng chính như sau:
+1) Quản lý tài sản.
+2) Quản lý công việc.
+3) Quản lý kế hoạch bảo trì.
+4) Báo cáo, ghi nhận các thông tin tiến độ sau bảo trì.
+5) Xuất được dữ liệu.
+6) Bảo trì, chỉnh sửa app theo yêu cầu.
+7) Sử dụng 2 ngôn ngữ Việt, Anh",1,2,không yêu cầu,"['Java', 'OOP']",Phần mềm
+3013,Seeding trên mạng xã hội,"- Seeding trên trang mạng xã hội theo yêu cầu của nhà tuyển dụng
+- Đã có mẫu, chỉ cần follow theo là có thể làm được",2,1,không yêu cầu,['Google Sheets'],Truyền thông đa phương tiện
+3014,"Chuyên viên Email, Zalo Marketing & Digital Marketing","- Quản lý lịch email, zalo gửi số lượng và chủ đề, xác định nhịp dựa trên kiểm tra hiệu suất, các phương pháp hay nhất và xu hướng của ngành.
+- Quản lí và thiết lập phễu email marketing, zalo marketing trên hệ thống.
+- Quản lý quy trình email, zalo marketing một cách hiệu quả, quản lý các chương trình đạt đến chỉ số nhất định về tỉ lệ mở, tỉ lệ xem … góp phần gia tăng tỉ lệ mua hàng, tỉ lệ chuyển đổi.
+- Kiểm tra các mẫu email, zalo và cấu trúc nhắn tin để xác định phương pháp tiếp cận sáng tạo tối ưu. Tạo nội dung email cho người dùng cũ.
+- Xác định và phân tích cơ sở dữ liệu, hành vi / kỳ vọng của khách hàng để tăng cường cơ hội kinh doanh.
+- Lập kế hoạch truyền thông xã hội để phát triển các chiến dịch tiếp thị các kênh khác.",2,1,Yêu cầu ít nhất 2 năm kinh nghiệm,"['Tiếng Anh', 'Microsoft Excel', 'WordPress']",Truyền thông đa phương tiện
+3015,FREELANCER FACEBOOK ADS,"1. Mô Tả công việc:
+- Thiết lập, triển khai và quản lý các chiến dịch Quảng cáo trên Facebook để thúc đẩy nhận diện thương hiệu, mức độ tương tác và chuyển đổi.
+- Theo dõi và phân tích hiệu suất chiến dịch, cung cấp báo cáo chi tiết và thông tin chuyên sâu để tối ưu hóa và cải thiện kết quả.
+- Phân bổ và quản lý ngân sách quảng cáo hiệu quả để đảm bảo ROI tốt nhất cho mỗi chiến dịch.
+- Làm việc chặt chẽ với nhóm sáng tạo để phát triển các quảng cáo hấp dẫn và nội dung thu hút được đối tượng mục tiêu
+- Sử dụng các công cụ và nền tảng phân tích để theo dõi số liệu hiệu suất và đưa ra quyết định dựa trên dữ liệu
+- Luôn nắm bắt các xu hướng mới nhất, các phương pháp hay nhất và những thay đổi về thuật toán để đảm bảo các chiến lược của chúng tôi vẫn hiệu quả.
+2. Yêu Cầu :
+- Có kinh nghiệm làm việc tối thiểu 1 năm cho vị trí tương đương. Từng triển khai ngân sách quảng cáo lớn.
+- Có kinh nghiệm triển khai thị trường Global : US, UK, EU...là lợi thế
+- Tiếng Anh thành thạo đạt điểm IELTS trên 6.0 hoặc tương đương.
+- Đã trực tiếp chi tiêu ngân sách marketing lớn và mang về doanh thu cho công ty (chuẩn bị sẵn case study trong CV xin việc).
+- Nhạy bén với xu hướng thị trường, xu hướng marketing, ứng dụng công nghệ-AI.
+- Có kỹ năng chuyên môn vững chắc, bao gồm sự quen thuộc với Meta Ads Manager, các công cụ phân tích và chiến lược nhắm mục tiêu đối tượng.
+- Phân tích dữ liệu: Hiểu và kiểm soát được các chỉ số quan trọng trong chiến dịch quảng cáo.
+- Tư duy cầu tiến và ham học hỏi, mong muốn bứt phá giới hạn và thử thách bản thân ở các lĩnh vực mới, vị trí cao trong công việc.",2,1,Cần khả nằng tư duy phân tích,['Tiếng Anh'],Marketing
+3016,Thiết kế Logo cho Công ty xuất khẩu trái cây,"Thiết kế Logo cho Công ty xuất khẩu trái cây
+---
+Màu sắc: Sử dụng các màu sắc nhẹ nhàng và tự nhiên như xanh lá cây, vàng, cam, đỏ, thể hiện sự tươi mát, sức khỏe và sự tự nhiên.
+Biểu tượng: Kết hợp với các biểu tượng thể hiện sự sống khỏe mạnh, tự nhiên, 2 bàn tay nâng niu trái cây.
+Phông chữ: Chọn phông chữ rõ ràng, hiện đại, và dễ đọc, cùng với một chút sự mềm mại để tạo cảm giác thân thiện và gần gũi.
+Phong cách thiết kế: Sử dụng phong cách tối giản nhưng tinh tế để tạo sự chuyên nghiệp và dễ nhận diện. Phong cách này cũng giúp logo dễ dàng được in trên các sản phẩm và bao bì khác nhau.
+Thông điệp: Đảm bảo logo truyền tải được thông điệp về sự kết hợp giữa khoa học và thiên nhiên, một hình ảnh hòa quyện giữa hiện đại và truyền thống của thương hiệu.",1,2,Có kinh nghiệm thiết kế logo,['Adobe Photoshop'],Truyền thông đa phương tiện
+3017,Thiết kế video giới thiệu sản phẩm,"Cần thiết kế GIF ngắn giới thiệu sản phẩm số (website, mobileapp)
+Ví dụ: https://dribbble.com/shots/24455042-Vet-App-Mobile-Design",1,2,Cần có kỹ năng thiết kế,['Figma'],Truyền thông đa phương tiện
+3018,Edit video ngắn tầm 1 phút -2 phút,"Bạn có thể cung cấp dịch vụ này? Thêm vào hồ sơ làm việc.
+Công ty Bất Động Sản Hà Đô Phát cần tuyển 02 cộng tác viên media
+- Lĩnh vực : bất động sản
+-Số lượng : 02
+-Lương theo sản phẩm
+- Nội dung yêu cầu : edit video ngắn tầm 1 phút - 2 phút
+- Yêu cầu : đảm bảo đúng tiến độ , làm việc chuyên nghiệp , trung thực, linh hoạt , nhanh nhẹn, sáng tạo,…",1,2,"Kiến thứ về bất động sản
+kỹ năng edit video",['Capcut'],Truyền thông đa phương tiện
+3019,Chụp ảnh sản phẩm,"Mô tả dự án:
+Sản phẩm: Bộ sản phẩm nến thơm mùa đông, gồm 11 sản phẩm và 7 combo.
+Phong cách chụp ảnh: Ấm áp, tinh tế, tối giản. Freelancer cần thể hiện rõ nét thiết kế và chất liệu của sản phẩm qua các góc chụp, tạo cảm giác ấm cúng phù hợp với mùa đông.
+Số lượng ảnh:
+Mỗi sản phẩm và combo sẽ chụp khoảng 5 tấm ảnh.
+Tổng số ảnh dự kiến: 90 tấm.
+Yêu cầu về người mẫu: Không cần người mẫu, chỉ tập trung chụp sản phẩm.
+Yêu cầu cụ thể cho freelancer:
+Chuẩn bị bối cảnh và phông nền:
+Freelancer tự chuẩn bị bối cảnh chụp, có thể sử dụng phông nền đơn sắc, vật dụng trang trí tối giản nhằm làm nổi bật sản phẩm.
+Sử dụng ánh sáng tự nhiên hoặc ánh sáng dịu nhẹ, tránh đổ bóng mạnh để tạo cảm giác ấm áp.
+Chụp ảnh sản phẩm:
+Chụp sản phẩm theo nhiều góc độ (toàn cảnh, chi tiết, cận cảnh) để thể hiện hết các yếu tố thiết kế.
+Có thể chụp nhóm sản phẩm để thể hiện combo hoặc làm nổi bật sự kết hợp giữa các sản phẩm.
+Thời gian hoàn thành:
+Hạn chót để bàn giao toàn bộ hình ảnh là trước ngày 31/10.
+Hậu kỳ:
+Không yêu cầu chỉnh sửa hậu kỳ. Freelancer cần bàn giao ảnh ở chất lượng cao, định dạng phù hợp cho quảng cáo, website và mạng xã hội.
+Bản quyền ảnh:
+Toàn quyền sử dụng hình ảnh cho mục đích quảng cáo, website, mạng xã hội của thương hiệu nến thơm.
+Thời gian & Địa điểm:
+Freelancer tự chuẩn bị địa điểm chụp (studio, phông nền,...).
+Yêu cầu báo giá:
+Vui lòng cung cấp báo giá chi tiết, bao gồm phí chụp ảnh và các khoản chi phí phát sinh (nếu có).",1,1,"- kỹ năng xử dụng mạng xã hội
+- Kỹ năng chụp ảnh",['Adobe Photoshop'],Truyền thông đa phương tiện
+3020,"Chụp ảnh, quay clip resort ở Mũi Né","Mình bên agency, cần tìm người quay chụp chuyên nghiệp cho khách hàng là resort 5 sao ở Mũi Né. Bạn nào làm được thì nhắn mình nhé.",1,2,Kỹ năng chụp ảnh và làm clip,['Adobe Photoshop'],Truyền thông đa phương tiện
+3021,Mình cần quay chụp không gian nội thất nhà ở,"Mình cần tìm bạn quay chụp không gian nội thất nhà ở
+- Chụp ảnh và xử lý ảnh
+- Quay dựng video dưới 10p",1,2,"- video editing
+- chụp ảnh
+- xử lý ảnh",['Adobe Photoshop'],Truyền thông đa phương tiện
+3022,Chụp ảnh sản phẩm tiệm trà,Cần tìm 1 team 2 - 3 người chụp ảnh khoảng 40 sản phẩm cho tiệm trà.,1,1,Kỹ năng chụp ảnh tốt,['Adobe Photoshop'],Truyền thông đa phương tiện
+3023,Cần CTV viết bài SEO cho website mới tạo,"Bên mình cần tuyển ctv content viết nội dung chuẩn seo cho website và tối ưu onpage cho website. Công việc bao gồm :
+- Tối ưu Onpage
+- Viết bài chi tiết sản phẩm điều hòa : Daikin, panasonic, Funiki, Casper, LG
+- Viết bài SEO từ khóa theo kế hoạch
+Yêu cầu :
+- Bài viết chuẩn SEO, internal link, tối ưu onpage, tối ưu các thẻ
+- Tự lên kế hoạch viết bài
+- Báo cáo qua gg sheet",2,1,Tốt nghiệp đại học,['Google Sheets'],Viết
+3024,Tìm content freelancer mảng F&B,"Viết bài quảng cáo facebook mảng F&B
+Triển khai dựa trên idea và hình ảnh có sẵn",1,2,Tốt nghiệp đại học,['Capcut'],Viết
+3025,"Nhập liệu, cập nhật sản phẩm cho fanpage facebook - Hợp tác thời vụ lâu dài","Cập nhật sản phẩm fanpage.
+- Đăng hình sản phẩm lên facebook để lấy link.
+- Nhập thông tin sản phẩm vào spreadsheet trên Drive. Có hơn 1000 sản phẩm thuộc các danh mục khác nhau.
+- Tuỳ chỉnh nội dung sản phẩm.
+Mình mong sẽ hợp tác lâu dài vì sau cái fanpage facebook mình sẽ có nhiều thay đổi về sau. Dự định sẽ làm 1 website bán hàng tren Haravan.
+Hiện giờ facebook page, website đã đi vào hoạt động và cập nhật của bạn sẽ lên ngay lập tức :)). Vai trò của bạn rất quan trọng với doanh nghiệp của mình.
+Bên mình sẽ trả theo công việc hoàn thành chứ không nhất thiết theo thời gian nên bạn có thể đề xuất hay nghĩ ra cách làm thuận tiện nhất và đưa ra đề xuất để cái tiến facebook page, website. Nếu làm tốt công việc thì bên mình có thể trả nhiều hơn ngân sách đưa ra.
+Ưu tiên:
+- Người từng chỉnh sửa, nhập liệu qua trang web của Haravan và facebook.
+- Ở trong TP Hồ Chí Minh vì sẽ cần gặp nhau để trau đổi chi tiết về yêu cầu công việc.
+- Biết html, css.
+- Mình sẽ trao đổi chủ yếu qua facebook. Cần bạn responsive.
+- Cũng dễ chịu vì có rất nhiều sản phẩm không cần chỉnh sửa chi tiết.",2,1,Kỹ năng gõ phía và nhập liệu nhanh,"['HTML/CSS', 'Capcut']",Truyền thông đa phương tiện
+3026,Nhập liệu hóa đơn/chứng từ ,"Mô tả chi tiết:
+- Chụp hình, nhập hóa đơn vào hệ thống. (tài liệu tiếng anh)
+- Làm trong 1-2 ngày
+- Nhận tài liệu và làm tại nhà
+Vị trí: Nhận tài liệu tại Quận 3 thành phố Hồ Chí Minh.
+Mức lương: 40k-50k/h",2,1,Làm việc nhanh nhẹn,['Tiếng Anh'],Truyền thông đa phương tiện
+3027,Cắt path-chỉnh màu sản phẩm,"Sử dụng thành thạo pentool trong clipping path
+Chỉnh màu,đổi màu và làm đều màu các hình",1,2,Từng làm qua công việc tương tự,['Adobe Photoshop'],Truyền thông đa phương tiện
+3028,"Thiết kế Sweater, Hoodie, Jacket, Shoes 3D","Team cần tuyển gấp 02 bạn có kinh nghiệm tối thiểu 1 năm Thiết kế Sweater, Hoodie, Jacket, Shoes 3D...",1,2,"- có mắt gu thẩm mỹ tốt
+- nhanh nhẹn tự chủ trong công việc
+- có khả năng làm mockup và các yêu cầu thiết kế khác
+- Có am hiểu về thời trang là 1 lợi thế
+Đúng hẹn, trách nhiệm trong công việc là điều bắt buộc. Lương thoả thuận. Vui lòng liên hệ, xin cảm ơn!",['Adobe Photoshop'],Truyền thông đa phương tiện
+3029,Content Creator cho sản phẩm Chatbot AI,"1. Mô Tả Công Việc
+Chúng tôi đang tìm kiếm một Content Creator sáng tạo và chuyên nghiệp có kinh nghiệm trong sản xuất video quảng cáo để hỗ trợ tạo ra các video hấp dẫn, giúp quảng bá phần mềm quản lý tin nhắn đa kênh. Ứng viên sẽ làm việc cùng đội ngũ marketing để xây dựng các video truyền tải rõ ràng lợi ích và tính năng của phần mềm cho đối tượng khách hàng chính là doanh nghiệp vừa và nhỏ (SME) và các chủ doanh nghiệp trong các ngành như FnB, Spa, Giáo dục, và Du lịch.
+2. Trách Nhiệm Công Việc
+Phát triển ý tưởng sáng tạo, lên kịch bản cho các video quảng cáo.
+Sản xuất các video chất lượng cao (2-5 phút) để giới thiệu tính năng nổi bật như phân tích cảm xúc, quản lý rủi ro, và cải thiện chăm sóc khách hàng.
+Tạo motion graphics, animation và các hiệu ứng hình ảnh bắt mắt để minh họa cách sử dụng phần mềm.
+Chỉnh sửa video phù hợp cho nhiều nền tảng: Facebook, YouTube, TikTok, và Google Ads.
+Tối ưu hóa nội dung video theo thị hiếu của từng đối tượng (quản lý doanh nghiệp, chủ SME).
+Kết hợp nhạc nền, lồng tiếng, phụ đề và hiệu ứng theo đúng nhận diện thương hiệu.
+Phối hợp với đội ngũ marketing để đảm bảo nội dung phù hợp với chiến lược và thông điệp của từng chiến dịch.
+Cải thiện và chỉnh sửa video dựa trên phản hồi và kết quả từ các chiến dịch quảng cáo.
+3. Yêu Cầu Kỹ Năng
+Có tối thiểu 2 năm kinh nghiệm sản xuất video và sáng tạo nội dung, với portfolio thể hiện các video quảng cáo hoặc dự án liên quan đến SaaS.
+Thành thạo các phần mềm chỉnh sửa video (ví dụ: Adobe Premiere, After Effects, Final Cut Pro hoặc DaVinci Resolve).
+Có khả năng kể chuyện tốt và có gu thẩm mỹ về hình ảnh và màu sắc.
+Kinh nghiệm sản xuất các video ngắn (30s–1 phút) cho các nền tảng TikTok, Facebook.
+Hiểu biết cơ bản về phần mềm SaaS hoặc nền tảng tin nhắn đa kênh là một lợi thế.
+Có khả năng làm việc độc lập và hoàn thành đúng hạn.
+Kinh nghiệm với các sản phẩm liên quan đến AI và khả năng giải thích các khái niệm phức tạp một cách dễ hiểu.
+Kỹ năng giao tiếp tốt và khả năng làm việc từ xa với đội ngũ.
+4. Phạm Vi Công Việc & Kết Quả Mong Đợi
+Kết quả đầu ra:
+3-5 video quảng cáo dài (2-5 phút).
+2-3 video ngắn (30s–1 phút) cho quảng cáo trên mạng xã hội.
+Video có tích hợp hiệu ứng motion graphics và text overlay.
+5. Quyền Lợi
+Tùy thuộc vào số lượng video và độ phức tạp
+Có thưởng nếu dự án đạt hiệu quả cao và tạo tác động lớn đến chiến dịch.",2,1,Biết sử mạng xã hội,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
+3030,"Đưa ra kế hoạch, chiến lược cho công việc Starup bán áo thun local brand","- Đưa ra kế hoạch tổng quát, chiến lược cho công việc
+Có thể chọn làm thêm hỗ trợ hoặc quản lý các đầu việc sau (sẽ được trả thêm theo thương lượng):
+- Hỗ trợ xây dựng thương hiệu và Marketing
+- Tìm kiếm xưởng sản xuất: Tìm một xưởng sản xuất uy tín, có chất lượng sản phẩm tốt và giá cả hợp lý.
+- Quản lý chất lượng: Kiểm soát chặt chẽ chất lượng sản phẩm trước khi đưa ra thị trường.",2,1,Có kinh nghiệm công việc tương tự 2 năm,['Tiếng Anh'],Marketing
+3031,Viết plugin wordpress,"Tôi cần viết mốt plugin cho phép kết nối đồng bộ giữa trang web của tôi và một bên thứ 3, đã có docs api sẵn",1,2,Có  kiến thức về lập trình,['WordPress'],Phần mềm
+3032,Cần php senior maintain upgrade UI web theo figma,"link dự án
+https://drive.google.com/drive/folders/11Dc6UmgBNpNJbGQpFNCaHa9HmxvdAW0Z?usp=sharing",1,2,có kinh nghiệp php 5 năm,"['PHP', 'Figma']",Phần mềm
+3033,Mình cần hỗ trợ tối ưu và chạy Quảng cáo Shopee,"Mình cần hỗ trợ tối ưu và chạy Quảng cáo Shopee
+Vui lòng gửi thông tin chi tiết qua nhé.
+Xin cảm ơn.",1,1,Có kinh nghiệm với công việc liên quan,['Tiếng Anh'],Marketing
+3034,Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social,"Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social. Mình cần lên kế hoạch biên tập nội dung về tin tức thể thao bóng đá , phối hợp với editter để đăng nền nền tảng tiktok fb reel",2,2,Biết biên tâp và có kiến thức về thể thao,['Tiếng Anh'],Marketing
+3035,Thiết kế website giáo dục,"1. Đánh giá hiện trạn website hiện có.
+2. Thiết kế lại website dựa trên website sẵn có trên nền tảng Workpress.
+3. Quản lý website (nếu được).",1,2,Có kỹ năng phân tích và mắt thẩm mỹ,"['HTML/CSS', 'Javascript', 'Tiếng Anh']",Phần mềm
+3036,Làm video tiktok từ 45 -50s theo nội dung đã cho,Bạn sẽ nhận được một nội dung chủ đề và dựng một video tiktok phù hợp với chủ đề đó. Sau mỗi video bạn sẽ nhận được tiền luôn nếu video đạt yêu cầu. Chúng tôi cần tìm 1-2 bạn để hợp tác lâu dài. Vui lòng gửi cho tôi một vài thiết kế mà bạn tâm đắc. Chúng tôi sẽ check xem nó có phù hợp với định hướng chúng tôi trước khi đưa ra quyết định,2,1,Có kênh tiktok với ít nhất 100 lượt theo dõi,"['Tiếng Anh', 'Capcut']",Truyền thông đa phương tiện
+3037,"Làm video tiktok, youtube quảng cáo sản phẩm","Công ty Bất Động Sản Hà Đô Phát cần tuyển 02 cộng tác viên media
+- Lĩnh vực : bất động sản
+-Số lượng : 02
+-Lương thoả thuận
+- Nội dung yêu cầu : yêu cầu quay , edit , đề xuất content ( nếu có khả năng ), tư vấn hướng social media cho doanh nghiệp",2,1,"đảm bảo đúng tiến độ 2 ngày 1 clip, làm việc chuyên nghiệp , trung thực, linh hoạt , nhanh nhẹn, sáng tạo,…","['Tiếng Anh', 'Capcut']",Marketing
+3038,TVC Quảng Cáo Nhẫn Cưới/ Cầu Hôn,Cần 1 kịch bản TVC dạng phim ngắn 1 phút quảng cáo về sản phẩm trang sức nhẫn cưới/ nhẫn cầu hôn,1,2,"Ngoại hình ưa nhìn, cao trên 1m8",['Tiếng Hàn'],Marketing
+3039,Trợ lý từ xa,"Tìm trợ lý từ xa, các công việc chủ yếu liên quan đến tổng hợp, thu thập, tóm tắt thông tin, viết báo cáo về các chủ đề môi trường, nông nghiệp, biến đổi khí hậu, phát triển bền vững, ...",2,1,Có kinh nghiệm với lĩnh vực liên quan,['Microsoft Excel'],Viết
+3040,Quản lý blog,"Tìm tài liệu pháp luật, tin tức liên quan cho blog",2,1,Không yêu cầu kinh nghiệm,['Tiếng Anh'],Truyền thông đa phương tiện
+3041,Chụp ảnh sự kiện tại Hà Nội,"Bên mình cần tuyển 1 bạn chụp hình sự kiện trao bằng ngày 01/07/2024 từ 13:30-15:30 tại Hoàn Kiếm, Hà Nội.",1,2,Có kinh nghiệm chụp ảnh,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
+3042,Tìm freelancer chụp ảnh Hội thảo PVN tại TP.Hồ Chí Minh ,chụp sự kiện cho 130 người từ 13h00 đến 17h00 và làm 1 cjip ngắn 5 -10p - chụp gala 18h30 đến 20h,1,2,Có kinh nghiệm chụp ảnh,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
+3043,Viết phần mềm đăng ký mua vàng online,"Tôi muốn viết phần mềm đăng ký mua vàng online (sử dụng phương thức http request). Trong đó, có các chức năng như: đăng ký nhiều tài cùng lúc, có chức năng hẹn giờ thực hiện, có thể lặp lại hoạt động đăng ký sau khoảng thời gian nào đó",1,2,Tốt nghiệp cao đẳng trở lên,"['HTML/CSS', 'PHP', 'SQL Server']",Phần mềm
+3044,Tuyển lập trình VueJS + Strapi,"Cần tuyền 1 bạn Frontend Dev mid-level, làm việc freelance + remote, tham gia team startup bên mình.",2,1,Yêu cầu có 1-2 năm kinh nghiệm làm việc với VueJS,"['HTML/CSS', 'Javascript']",Phần mềm
+3045,Tìm bạn nào giỏi về vi phạm chính sách Facebook + phần mềm Facebook giúp mình quản lý group fanpage bằng phần mềm ,# Tuyển Dụng: Chuyên Viên Quảng Cáo Facebook,2,1,"- Có trên 1 năm kinh nghiệm chạy quảng cáo trong ngành cờ bạc (Tài Xỉu, Xổ Số, Bóng Đá).
+- Quen thuộc với nhiều loại quảng cáo và có khả năng chạy đa dạng các loại hình quảng cáo.
+- Kỹ năng giải quyết các vấn đề như tài khoản chết, chi phí cao và các khó khăn khác trong quá trình chạy quảng cáo.
+- Am hiểu cách lách các quy định về quảng cáo vi phạm chính sách ngành cờ bạc.
+## Trách Nhiệm Công Việc
+1. **Điều Phối và Chuẩn Bị Tài Liệu Quảng Cáo**:
+- Chịu trách nhiệm điều phối và chuẩn bị tài liệu quảng cáo.
+- Theo dõi kịp thời hiệu quả của tài liệu quảng cáo.
+- Tối ưu hóa liên tục và thường xuyên tổng kết kết quả chạy quảng cáo.
+2. **Quản Lý Chạy Quảng Cáo Hàng Ngày**:
+- Quản lý và đảm bảo chạy quảng cáo chính xác hàng ngày.
+- Theo dõi hiệu quả và kịp thời tối ưu hóa quảng cáo.
+3. **Phân Tích Hiệu Quả Các Kênh Quảng Cáo**:
+- Thường xuyên tiến hành phân tích tổng thể về hiệu quả của các kênh chạy quảng cáo.
+- Tối ưu hóa kế hoạch quảng cáo dựa trên kết quả phân tích dữ liệu để nâng cao hiệu quả quảng cáo.
+---
+Nếu bạn là người đam mê và có kinh nghiệm trong lĩnh vực này, hãy gửi hồ sơ của bạn cho chúng tôi!","['Email Marketing', 'Google Sheets']",Truyền thông đa phương tiện
+3046,"Cần tìm Freelancer thiết kế website, gian hàng trên sàn TMĐT cho lĩnh vực bánh nhập từ Trung Quốc","Chào các bạn Freelancer,
+Mình bán bánh ngọt nhập khẩu trung quốc với nước ép trái cây đóng chai nên cần tìm freelancer thiết kế website với xây dựng cửa hàng trên shoppee với tiktok.
+Công việc cụ thể như sau: Trang chủ, gian hàng, mua hàng, thanh toán … trên website và sàn thương mại điện tử.
+Câc bạn inbox để trao đổi chi tiết hơn ạ",1,2,Có kinh nghiệm làm phần mềm thương mại điện tử,"['HTML/CSS', 'Java', 'Javascript']",Phần mềm
+3047,Tạo video quảng cáo và đăng lên các nền tảng mạng xã hội Thị trường Mỹ ,"Chúng tôi đang tìm kiếm một TikToker, Facebooker, Youtuber tại thị trường Mỹ để tạo và đăng tải video quảng cáo trải nghiệm ứng dụng DrawingEZ. Mục tiêu là thu hút người dùng mới tải ứng dụng. Nếu bạn có tài khoản TikToker, Facebooker, Youtuber với lượng người theo dõi lớn và kỹ năng sáng tạo nội dung, hãy hợp tác với chúng tôi để giới thiệu ứng dụng vẽ độc đáo này!",2,2,"Tài khoản TikToker, Facebooker, Youtuber thuộc thị trường Mỹ với lượng người theo dõi lớn và tương tác tốt.
+Có kinh nghiệm tạo nội dung quảng cáo hoặc trải nghiệm sản phẩm.
+Khả năng sáng tạo video độc đáo, hấp dẫn, và tương tác cao với người xem.
+Quan tâm đến ứng dụng vẽ hoặc các nội dung liên quan đến sáng tạo.
+Trách nhiệm:
+Tạo và đăng video trải nghiệm ứng dụng DrawingEZ, hướng dẫn người dùng tải và sử dụng app.
+Sử dụng chiến lược sáng tạo để thu hút đối tượng người dùng tại Mỹ.
+Phối hợp với đội ngũ của chúng tôi để đảm bảo thông điệp quảng cáo phù hợp với ứng dụng.
+Quyền lợi:
+Cơ hội hợp tác lâu dài với ứng dụng sáng tạo",['Tiếng Anh'],Truyền thông đa phương tiện
+3048,Làm 01 video giới thiệu công ty ngắn + 01 video giới thiệu dịch vụ,"Cần đối tác xây dựng 2 video:
+- 01 video giới thiệu nhanh công ty (30s)
++ Dựa trên mong muốn và các nội dung doanh nghiệp muốn triển khai để lên idea
++ Quay chụp thêm nguyên liệu cho video
++ Dựng và trả video hoàn chỉnh độ phân giải 2K trở lên
+- 01 video giới thiệu dịch vụ (60s)
++ Cần trao đổi off để hiểu rõ chức năng của sản phẩm (phần mềm quản lý kho hàng)
++ Dựng animation để khách hàng hiểu được chức năng sản phẩm
++ Độ phân giải 2K trở lên",1,1,Có kinh nghiệm làm dự án tương tự,"['Adobe Photoshop', 'Tiếng Anh', 'Capcut']",Truyền thông đa phương tiện
+3049,Xử lý khôi phục tài khoản bán hàng thương mại điện tử,Liên hệ đội ngũ chăm sóc khách hàng để xử lý khôi phục tài khoản bản hàng online,1,1,"+ Có máy tính, laptop
++ Biêt tiếng anh giao tiếp để thực hiện live chat hoặc call support","['Microsoft Excel', 'Google Sheets']",Truyền thông đa phương tiện
+3050,Dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh,Cần tuyển một bạn có kinh nghiệm dịch thuật để dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh.,2,1,"Yêu cầu có bằng đại học chuyên ngành tiếng Anh hoặc chứng chỉ tiếng Anh TOEFL, IELTS, TOEIC, CEFR...",['Tiếng Anh'],Viết
+3051,Chụp ảnh món ăn nhà hàng ,"Chụp hình 35 món ăn, mỗi món 2 góc khác nhau
+Chụp cận cảnh, yêu cầu sắc nét, màu làm món ăn hấp dẫn để làm menu",1,2,Nhiếp ảnh ít nhất 3 năm,['Adobe Photoshop'],Truyền thông đa phương tiện
+3052,LÀM VIỆC CHO WEBSITE LIKE SUB CÁC DỊCH VỤ MẠNG,Liên hệ để biết nội dung,2,1,không yêu cầu kinh nghiệm thu nhập dựa trên lượng sản phẩm bán ra kèm theo hoa hồng,['Microsoft Excel'],Truyền thông đa phương tiện
+3053,Unity Developer Needed for Game Fixes,"I own a game currently running on Unity version 2017, and I need a Unity game developer to help me with the following tasks:
+- Upgrade the project to Unity version 2020
+- Fix issues with Ads not displaying
+- Fix issues with Facebook login permissions not being granted
+- Fix compatibility issues with external packages integrated into the project",2,1,"The project uses Spine 2D, so a developer with experience in Spine 2D is required.","['C#', 'Adobe Photoshop']",Phần mềm
+3054,Code bot Telegram ,"Tôi muốn 1 con bot telegram thông báo cho tôi giao dịch mới từ 1 địa chỉ ví trên solscan.io
+Ví dụ : Ví A chuyển 10 sol tới ví B, ngay lập tức bot telegram thông báo cho tôi địa chỉ ví B đó và cho phép tôi click vào địa chỉ ví để copy luôn
+Và tôi muốn tự sửa được ví A và số tiền chuyển",1,2,Kinh nghiệm 2 năm,"['HTML/CSS', 'C#', 'Javascript']",Phần mềm
+3055,"Xây dựng kênh thương hiệu: Facebook fanpage, Insta, Pinterest","- lên kế hoạch xây dựng các kênh: fanpage, instagram, pinterest với đối tượng người xem là khách nước ngoài (cụ thể UK)
+- thực hiện kế hoạch đề ra
+- báo cáo về các thông số kết quả khi xây dựng kênh",2,1,hai năm kinh nghiệm với lĩnh vực tương đương,"['Microsoft Excel', 'Google Sheets']",Marketing
+3056,Nhân Viên Content Facebook thú cưng,Cần 1 bạn viết content đăng Facebook. Số lượng khoảng 15 bài viết/tháng có chỉnh ảnh. Spam các group trên group liên quan đến thú cưng,2,1,Không yêu cầu kinh nghiệm,['Tiếng Anh'],Viết
+3057,Quảng cáo google cho lớp học làm bánh,The flour cần tuyển 1 bạn có kinh nghiệm gg ads hỗ trợ quảng cáo lớp học làm bánh,1,2,một năm kinh nghiệm,"['Tiếng Anh', 'Capcut']",Marketing
+3058,Chạy VPS quốc tế tăng giờ xem youtube,"Hiện tại bên mình đang có dự án quốc tế mảng Youtube , cần chạy 8000 giờ xem trong 10 ngày.",2,1,"- Am hiểu chạy VPS quốc tế (ưu tiên VPS Us, Uk, Trung đông)
+- Am hiểu thuật toán của Youtube, Google
+- Share link, viết bài
+- Seeding tiếng anh (có thể dùng AI để seeding nhưng phải giống người thật)
+Bạn nào thấy thực lực của mình đủ yêu cầu thì nhắn tin trực tiếp cho mình. Cảm ơn!",['Tiếng Anh'],Truyền thông đa phương tiện
+3059,Thiết kế theo văn bản có sẵn,Mình sẽ đưa mẫu cho các bạn chỉ cần làm như mẫu là được,2,1,chính xác và chỉnh chu,['Tiếng Anh'],Viết
+3060,Nhân Viên Content Marketing Remote – Admin bóng đá,"• Xây dựng, quản lý nội dung trên Fanpage, Telegram, Tiktok, Youtube của công ty (bao gồm chữ và hình ảnh) theo định hướng có sẵn
+• Tham gia cùng team xây dựng và quản lý các chiến dịch Marketing, đóng góp các ý tưởng nội dung sáng tạo cho chiến dịch Digital Marketing.
+• Ưu tiên ứng viên đã có kinh nghiệm làm admin các page bóng đá lớn",2,1,"• Có kỹ năng viết bài quảng cáo, quản lý cộng đồng.
+• Sử dụng thành thạo vi tính văn phòng.
+• Đã có kinh nghiệm xây dựng hoặc quản trị page, Telegram channel từ 1 năm, với các vị trí tương đương: Content Viral, Content Creator
+• Tiếng Anh đọc hiểu cơ bản
+• Có khả năng tổng hợp thông tin từ nhiều nguồn khác nhau.
+• Có khả năng thiết kế cơ bản là lợi thế","['Tiếng Anh', 'Capcut']",Marketing

@@ -1,0 +1,551 @@
+ID,Tên công việc,Mô tả,ID lĩnh vực,Loại công việc,Loại lương,Yêu cầu
+1,Lập trình web bán hàng,Cần lập trình viên có ít nhất 2 năm kinh nghiệp với các công nghệ có liên quan,1,1,2,
+2,Thiết kế giao diện website,"<p><strong>Cần người c&oacute; kinh nghiệm về Frontend</strong></p>
+",1,2,1,
+1002,Lập trình web bán hàng,Cần có kỹ năng,2,1,2,
+2002,Dự án demo,Mô tả dự án,1,1,2,
+3010,Lập bảng tính (chứa công thức) số liệu trong excel,"<p>T&ocirc;i cần lập 1 trang t&iacute;nh Excel chứa c&ocirc;ng thức t&iacute;nh to&aacute;n c&aacute;c số liệu nhập v&agrave;o để ra 1 kết quả cụ thể</p>
+",1030,1,2,"<p>Từng l&agrave;m dự &aacute;n tương tự</p>
+"
+3012,Thiết kế App quản lý bảo trì,"<p>Thiết kế APP sử dụng cho c&ocirc;ng ty cần c&oacute; c&aacute;c chức năng ch&iacute;nh như sau:</p>
+
+<p>1) Quản l&yacute; t&agrave;i sản.</p>
+
+<p>2) Quản l&yacute; c&ocirc;ng việc.</p>
+
+<p>3) Quản l&yacute; kế hoạch bảo tr&igrave;.</p>
+
+<p>4) B&aacute;o c&aacute;o, ghi nhận c&aacute;c th&ocirc;ng tin tiến độ sau bảo tr&igrave;.</p>
+
+<p>5) Xuất được dữ liệu.</p>
+
+<p>6) Bảo tr&igrave;, chỉnh sửa app theo y&ecirc;u cầu.</p>
+
+<p>7) Sử dụng 2 ng&ocirc;n ngữ Việt, Anh</p>
+",1030,1,2,"<p>kh&ocirc;ng y&ecirc;u cầu</p>
+"
+3013,Seeding trên mạng xã hội,"<p>- Seeding tr&ecirc;n trang mạng x&atilde; hội theo y&ecirc;u cầu của nh&agrave; tuyển dụng</p>
+
+<p>- Đ&atilde; c&oacute; mẫu, chỉ cần follow theo l&agrave; c&oacute; thể l&agrave;m được</p>
+",1035,2,1,"<p>kh&ocirc;ng y&ecirc;u cầu</p>
+"
+3014,"Chuyên viên Email, Zalo Marketing & Digital Marketing","<p>- Quản l&yacute; lịch email, zalo gửi số lượng v&agrave; chủ đề, x&aacute;c định nhịp dựa tr&ecirc;n kiểm tra hiệu suất, c&aacute;c phương ph&aacute;p hay nhất v&agrave; xu hướng của ng&agrave;nh.</p>
+
+<p>- Quản l&iacute; v&agrave; thiết lập phễu email marketing, zalo marketing tr&ecirc;n hệ thống.</p>
+
+<p>- Quản l&yacute; quy tr&igrave;nh email, zalo marketing một c&aacute;ch hiệu quả, quản l&yacute; c&aacute;c chương tr&igrave;nh đạt đến chỉ số nhất định về tỉ lệ mở, tỉ lệ xem &hellip; g&oacute;p phần gia tăng tỉ lệ mua h&agrave;ng, tỉ lệ chuyển đổi.</p>
+
+<p>- Kiểm tra c&aacute;c mẫu email, zalo v&agrave; cấu tr&uacute;c nhắn tin để x&aacute;c định phương ph&aacute;p tiếp cận s&aacute;ng tạo tối ưu. Tạo nội dung email cho người d&ugrave;ng cũ.</p>
+
+<p>- X&aacute;c định v&agrave; ph&acirc;n t&iacute;ch cơ sở dữ liệu, h&agrave;nh vi / kỳ vọng của kh&aacute;ch h&agrave;ng để tăng cường cơ hội kinh doanh.</p>
+
+<p>- Lập kế hoạch truyền th&ocirc;ng x&atilde; hội để ph&aacute;t triển c&aacute;c chiến dịch tiếp thị c&aacute;c k&ecirc;nh kh&aacute;c.</p>
+",1035,2,1,"<p>Y&ecirc;u cầu &iacute;t nhất 2 năm kinh nghiệm</p>
+"
+3015,FREELANCER FACEBOOK ADS,"<p>1. M&ocirc; Tả c&ocirc;ng việc:</p>
+
+<p>- Thiết lập, triển khai v&agrave; quản l&yacute; c&aacute;c chiến dịch Quảng c&aacute;o tr&ecirc;n Facebook để th&uacute;c đẩy nhận diện thương hiệu, mức độ tương t&aacute;c v&agrave; chuyển đổi.</p>
+
+<p>- Theo d&otilde;i v&agrave; ph&acirc;n t&iacute;ch hiệu suất chiến dịch, cung cấp b&aacute;o c&aacute;o chi tiết v&agrave; th&ocirc;ng tin chuy&ecirc;n s&acirc;u để tối ưu h&oacute;a v&agrave; cải thiện kết quả.</p>
+
+<p>- Ph&acirc;n bổ v&agrave; quản l&yacute; ng&acirc;n s&aacute;ch quảng c&aacute;o hiệu quả để đảm bảo ROI tốt nhất cho mỗi chiến dịch.</p>
+
+<p>- L&agrave;m việc chặt chẽ với nh&oacute;m s&aacute;ng tạo để ph&aacute;t triển c&aacute;c quảng c&aacute;o hấp dẫn v&agrave; nội dung thu h&uacute;t được đối tượng mục ti&ecirc;u</p>
+
+<p>- Sử dụng c&aacute;c c&ocirc;ng cụ v&agrave; nền tảng ph&acirc;n t&iacute;ch để theo d&otilde;i số liệu hiệu suất v&agrave; đưa ra quyết định dựa tr&ecirc;n dữ liệu</p>
+
+<p>- Lu&ocirc;n nắm bắt c&aacute;c xu hướng mới nhất, c&aacute;c phương ph&aacute;p hay nhất v&agrave; những thay đổi về thuật to&aacute;n để đảm bảo c&aacute;c chiến lược của ch&uacute;ng t&ocirc;i vẫn hiệu quả.</p>
+
+<p>2. Y&ecirc;u Cầu :</p>
+
+<p>- C&oacute; kinh nghiệm l&agrave;m việc tối thiểu 1 năm cho vị tr&iacute; tương đương. Từng triển khai ng&acirc;n s&aacute;ch quảng c&aacute;o lớn.</p>
+
+<p>- C&oacute; kinh nghiệm triển khai thị trường Global : US, UK, EU...l&agrave; lợi thế</p>
+
+<p>- Tiếng Anh th&agrave;nh thạo đạt điểm IELTS tr&ecirc;n 6.0 hoặc tương đương.</p>
+
+<p>- Đ&atilde; trực tiếp chi ti&ecirc;u ng&acirc;n s&aacute;ch marketing lớn v&agrave; mang về doanh thu cho c&ocirc;ng ty (chuẩn bị sẵn case study trong CV xin việc).</p>
+
+<p>- Nhạy b&eacute;n với xu hướng thị trường, xu hướng marketing, ứng dụng c&ocirc;ng nghệ-AI.</p>
+
+<p>- C&oacute; kỹ năng chuy&ecirc;n m&ocirc;n vững chắc, bao gồm sự quen thuộc với Meta Ads Manager, c&aacute;c c&ocirc;ng cụ ph&acirc;n t&iacute;ch v&agrave; chiến lược nhắm mục ti&ecirc;u đối tượng.</p>
+
+<p>- Ph&acirc;n t&iacute;ch dữ liệu: Hiểu v&agrave; kiểm so&aacute;t được c&aacute;c chỉ số quan trọng trong chiến dịch quảng c&aacute;o.</p>
+
+<p>- Tư duy cầu tiến v&agrave; ham học hỏi, mong muốn bứt ph&aacute; giới hạn v&agrave; thử th&aacute;ch bản th&acirc;n ở c&aacute;c lĩnh vực mới, vị tr&iacute; cao trong c&ocirc;ng việc.</p>
+",1034,2,1,"<p>Cần khả nằng tư duy ph&acirc;n t&iacute;ch</p>
+"
+3016,Thiết kế Logo cho Công ty xuất khẩu trái cây,"<p>Thiết kế Logo cho C&ocirc;ng ty xuất khẩu tr&aacute;i c&acirc;y</p>
+
+<p>---</p>
+
+<p>M&agrave;u sắc: Sử dụng c&aacute;c m&agrave;u sắc nhẹ nh&agrave;ng v&agrave; tự nhi&ecirc;n như xanh l&aacute; c&acirc;y, v&agrave;ng, cam, đỏ, thể hiện sự tươi m&aacute;t, sức khỏe v&agrave; sự tự nhi&ecirc;n.</p>
+
+<p>Biểu tượng: Kết hợp với c&aacute;c biểu tượng thể hiện sự sống khỏe mạnh, tự nhi&ecirc;n, 2 b&agrave;n tay n&acirc;ng niu tr&aacute;i c&acirc;y.</p>
+
+<p>Ph&ocirc;ng chữ: Chọn ph&ocirc;ng chữ r&otilde; r&agrave;ng, hiện đại, v&agrave; dễ đọc, c&ugrave;ng với một ch&uacute;t sự mềm mại để tạo cảm gi&aacute;c th&acirc;n thiện v&agrave; gần gũi.</p>
+
+<p>Phong c&aacute;ch thiết kế: Sử dụng phong c&aacute;ch tối giản nhưng tinh tế để tạo sự chuy&ecirc;n nghiệp v&agrave; dễ nhận diện. Phong c&aacute;ch n&agrave;y cũng gi&uacute;p logo dễ d&agrave;ng được in tr&ecirc;n c&aacute;c sản phẩm v&agrave; bao b&igrave; kh&aacute;c nhau.</p>
+
+<p>Th&ocirc;ng điệp: Đảm bảo logo truyền tải được th&ocirc;ng điệp về sự kết hợp giữa khoa học v&agrave; thi&ecirc;n nhi&ecirc;n, một h&igrave;nh ảnh h&ograve;a quyện giữa hiện đại v&agrave; truyền thống của thương hiệu.</p>
+",1035,1,2,"<p>C&oacute; kinh nghiệm thiết kế logo</p>
+"
+3017,Thiết kế video giới thiệu sản phẩm,"<p>Cần thiết kế GIF ngắn giới thiệu sản phẩm số (website, mobileapp)</p>
+
+<p>V&iacute; dụ: https://dribbble.com/shots/24455042-Vet-App-Mobile-Design</p>
+",1035,1,2,"<p>Cần c&oacute; kỹ năng thiết kế</p>
+"
+3018,Edit video ngắn tầm 1 phút -2 phút,"<p>Bạn c&oacute; thể cung cấp dịch vụ n&agrave;y?&nbsp;<a href=""https://www.vlance.vn/a/1728265/edit#service-can-provide"">Th&ecirc;m v&agrave;o hồ sơ l&agrave;m việc</a>.</p>
+
+<p>C&ocirc;ng ty Bất Động Sản H&agrave; Đ&ocirc; Ph&aacute;t cần tuyển 02 cộng t&aacute;c vi&ecirc;n media</p>
+
+<p>- Lĩnh vực : bất động sản</p>
+
+<p>-Số lượng : 02</p>
+
+<p>-Lương theo sản phẩm</p>
+
+<p>- Nội dung y&ecirc;u cầu : edit video ngắn tầm 1 ph&uacute;t - 2 ph&uacute;t</p>
+
+<p>- Y&ecirc;u cầu : đảm bảo đ&uacute;ng tiến độ , l&agrave;m việc chuy&ecirc;n nghiệp , trung thực, linh hoạt , nhanh nhẹn, s&aacute;ng tạo,&hellip;</p>
+",1035,1,2,"<ul>
+	<li>Kiến thứ về bất động sản</li>
+	<li>kỹ năng edit video</li>
+</ul>
+"
+3019,Chụp ảnh sản phẩm,"<p>M&ocirc; tả dự &aacute;n:</p>
+
+<p>Sản phẩm: Bộ sản phẩm nến thơm m&ugrave;a đ&ocirc;ng, gồm 11 sản phẩm v&agrave; 7 combo.</p>
+
+<p>Phong c&aacute;ch chụp ảnh: Ấm &aacute;p, tinh tế, tối giản. Freelancer cần thể hiện r&otilde; n&eacute;t thiết kế v&agrave; chất liệu của sản phẩm qua c&aacute;c g&oacute;c chụp, tạo cảm gi&aacute;c ấm c&uacute;ng ph&ugrave; hợp với m&ugrave;a đ&ocirc;ng.</p>
+
+<p>Số lượng ảnh:</p>
+
+<p>Mỗi sản phẩm v&agrave; combo sẽ chụp khoảng 5 tấm ảnh.</p>
+
+<p>Tổng số ảnh dự kiến: 90 tấm.</p>
+
+<p>Y&ecirc;u cầu về người mẫu: Kh&ocirc;ng cần người mẫu, chỉ tập trung chụp sản phẩm.</p>
+
+<p>Y&ecirc;u cầu cụ thể cho freelancer:</p>
+
+<p>Chuẩn bị bối cảnh v&agrave; ph&ocirc;ng nền:</p>
+
+<p>Freelancer tự chuẩn bị bối cảnh chụp, c&oacute; thể sử dụng ph&ocirc;ng nền đơn sắc, vật dụng trang tr&iacute; tối giản nhằm l&agrave;m nổi bật sản phẩm.</p>
+
+<p>Sử dụng &aacute;nh s&aacute;ng tự nhi&ecirc;n hoặc &aacute;nh s&aacute;ng dịu nhẹ, tr&aacute;nh đổ b&oacute;ng mạnh để tạo cảm gi&aacute;c ấm &aacute;p.</p>
+
+<p>Chụp ảnh sản phẩm:</p>
+
+<p>Chụp sản phẩm theo nhiều g&oacute;c độ (to&agrave;n cảnh, chi tiết, cận cảnh) để thể hiện hết c&aacute;c yếu tố thiết kế.</p>
+
+<p>C&oacute; thể chụp nh&oacute;m sản phẩm để thể hiện combo hoặc l&agrave;m nổi bật sự kết hợp giữa c&aacute;c sản phẩm.</p>
+
+<p>Thời gian ho&agrave;n th&agrave;nh:</p>
+
+<p>Hạn ch&oacute;t để b&agrave;n giao to&agrave;n bộ h&igrave;nh ảnh l&agrave; trước ng&agrave;y 31/10.</p>
+
+<p>Hậu kỳ:</p>
+
+<p>Kh&ocirc;ng y&ecirc;u cầu chỉnh sửa hậu kỳ. Freelancer cần b&agrave;n giao ảnh ở chất lượng cao, định dạng ph&ugrave; hợp cho quảng c&aacute;o, website v&agrave; mạng x&atilde; hội.</p>
+
+<p>Bản quyền ảnh:</p>
+
+<p>To&agrave;n quyền sử dụng h&igrave;nh ảnh cho mục đ&iacute;ch quảng c&aacute;o, website, mạng x&atilde; hội của thương hiệu nến thơm.</p>
+
+<p>Thời gian &amp; Địa điểm:</p>
+
+<p>Freelancer tự chuẩn bị địa điểm chụp (studio, ph&ocirc;ng nền,...).</p>
+
+<p>Y&ecirc;u cầu b&aacute;o gi&aacute;:</p>
+
+<p>Vui l&ograve;ng cung cấp b&aacute;o gi&aacute; chi tiết, bao gồm ph&iacute; chụp ảnh v&agrave; c&aacute;c khoản chi ph&iacute; ph&aacute;t sinh (nếu c&oacute;).</p>
+",1035,1,1,"<p>- kỹ năng xử dụng mạng x&atilde; hội</p>
+
+<p>- Kỹ năng chụp ảnh</p>
+"
+3020,"Chụp ảnh, quay clip resort ở Mũi Né","<p>M&igrave;nh b&ecirc;n agency, cần t&igrave;m người quay chụp chuy&ecirc;n nghiệp cho kh&aacute;ch h&agrave;ng l&agrave; resort 5 sao ở Mũi N&eacute;. Bạn n&agrave;o l&agrave;m được th&igrave; nhắn m&igrave;nh nh&eacute;.</p>
+",1035,1,2,"<p>Kỹ năng chụp ảnh v&agrave; l&agrave;m clip</p>
+"
+3021,Mình cần quay chụp không gian nội thất nhà ở,"<p>M&igrave;nh cần t&igrave;m bạn quay chụp kh&ocirc;ng gian nội thất nh&agrave; ở</p>
+
+<p>- Chụp ảnh v&agrave; xử l&yacute; ảnh</p>
+
+<p>- Quay dựng video dưới 10p</p>
+",1035,1,2,"<p>- video editing</p>
+
+<p>- chụp ảnh</p>
+
+<p>- xử l&yacute; ảnh</p>
+"
+3022,Chụp ảnh sản phẩm tiệm trà,"<p>Cần t&igrave;m 1 team 2 - 3 người chụp ảnh khoảng 40 sản phẩm cho tiệm tr&agrave;.</p>
+",1035,1,1,"<p>Kỹ năng chụp ảnh tốt</p>
+"
+3023,Cần CTV viết bài SEO cho website mới tạo,"<p>B&ecirc;n m&igrave;nh cần tuyển ctv content viết nội dung chuẩn seo cho website v&agrave; tối ưu onpage cho website. C&ocirc;ng việc bao gồm :</p>
+
+<p>- Tối ưu Onpage</p>
+
+<p>- Viết b&agrave;i chi tiết sản phẩm điều h&ograve;a : Daikin, panasonic, Funiki, Casper, LG</p>
+
+<p>- Viết b&agrave;i SEO từ kh&oacute;a theo kế hoạch</p>
+
+<p>Y&ecirc;u cầu :</p>
+
+<p>- B&agrave;i viết chuẩn SEO, internal link, tối ưu onpage, tối ưu c&aacute;c thẻ</p>
+
+<p>- Tự l&ecirc;n kế hoạch viết b&agrave;i</p>
+
+<p>- B&aacute;o c&aacute;o qua gg sheet</p>
+",1038,2,1,"<p>Tốt nghiệp đại học</p>
+"
+3024,Tìm content freelancer mảng F&B,"<p>Viết b&agrave;i quảng c&aacute;o facebook mảng F&amp;B</p>
+
+<p>Triển khai dựa tr&ecirc;n idea v&agrave; h&igrave;nh ảnh c&oacute; sẵn</p>
+",1038,1,2,"<p>Tốt nghiệp đại học</p>
+"
+3025,"Nhập liệu, cập nhật sản phẩm cho fanpage facebook - Hợp tác thời vụ lâu dài","<p>Cập nhật sản phẩm fanpage.</p>
+
+<p>- Đăng h&igrave;nh sản phẩm l&ecirc;n facebook để lấy link.</p>
+
+<p>- Nhập th&ocirc;ng tin sản phẩm v&agrave;o spreadsheet tr&ecirc;n Drive. C&oacute; hơn 1000 sản phẩm thuộc c&aacute;c danh mục kh&aacute;c nhau.</p>
+
+<p>- Tuỳ chỉnh nội dung sản phẩm.</p>
+
+<p>M&igrave;nh mong sẽ hợp t&aacute;c l&acirc;u d&agrave;i v&igrave; sau c&aacute;i fanpage facebook m&igrave;nh sẽ c&oacute; nhiều thay đổi về sau. Dự định sẽ l&agrave;m 1 website b&aacute;n h&agrave;ng tren Haravan.</p>
+
+<p>Hiện giờ facebook page, website đ&atilde; đi v&agrave;o hoạt động v&agrave; cập nhật của bạn sẽ l&ecirc;n ngay lập tức :)). Vai tr&ograve; của bạn rất quan trọng với doanh nghiệp của m&igrave;nh.</p>
+
+<p>B&ecirc;n m&igrave;nh sẽ trả theo c&ocirc;ng việc ho&agrave;n th&agrave;nh chứ kh&ocirc;ng nhất thiết theo thời gian n&ecirc;n bạn c&oacute; thể đề xuất hay nghĩ ra c&aacute;ch l&agrave;m thuận tiện nhất v&agrave; đưa ra đề xuất để c&aacute;i tiến facebook page, website. Nếu l&agrave;m tốt c&ocirc;ng việc th&igrave; b&ecirc;n m&igrave;nh c&oacute; thể trả nhiều hơn ng&acirc;n s&aacute;ch đưa ra.</p>
+
+<p>Ưu ti&ecirc;n:</p>
+
+<p>- Người từng chỉnh sửa, nhập liệu qua trang web của Haravan v&agrave; facebook.</p>
+
+<p>- Ở trong TP Hồ Ch&iacute; Minh v&igrave; sẽ cần gặp nhau để trau đổi chi tiết về y&ecirc;u cầu c&ocirc;ng việc.</p>
+
+<p>- Biết html, css.</p>
+
+<p>- M&igrave;nh sẽ trao đổi chủ yếu qua facebook. Cần bạn responsive.</p>
+
+<p>- Cũng dễ chịu v&igrave; c&oacute; rất nhiều sản phẩm kh&ocirc;ng cần chỉnh sửa chi tiết.</p>
+",1035,2,1,"<p>Kỹ năng g&otilde; ph&iacute;a v&agrave; nhập liệu nhanh</p>
+"
+3026,Nhập liệu hóa đơn/chứng từ ,"<p>M&ocirc; tả chi tiết:</p>
+
+<p>- Chụp h&igrave;nh, nhập h&oacute;a đơn v&agrave;o hệ thống. (t&agrave;i liệu tiếng anh)</p>
+
+<p>- L&agrave;m trong 1-2 ng&agrave;y</p>
+
+<p>- Nhận t&agrave;i liệu v&agrave; l&agrave;m tại nh&agrave;</p>
+
+<p>Vị tr&iacute;: Nhận t&agrave;i liệu tại Quận 3 th&agrave;nh phố Hồ Ch&iacute; Minh.</p>
+
+<p>Mức lương: 40k-50k/h</p>
+",1035,2,1,"<p>L&agrave;m việc nhanh nhẹn</p>
+"
+3027,Cắt path-chỉnh màu sản phẩm,"<p>Sử dụng th&agrave;nh thạo pentool trong clipping path</p>
+
+<p>Chỉnh m&agrave;u,đổi m&agrave;u v&agrave; l&agrave;m đều m&agrave;u c&aacute;c h&igrave;nh</p>
+",1035,1,2,"<p>Từng l&agrave;m qua c&ocirc;ng việc tương tự</p>
+"
+3028,"Thiết kế Sweater, Hoodie, Jacket, Shoes 3D","<p>Team cần tuyển gấp 02 bạn c&oacute; kinh nghiệm tối thiểu 1 năm Thiết kế Sweater, Hoodie, Jacket, Shoes 3D...</p>
+",1035,1,2,"<p>- c&oacute; mắt gu thẩm mỹ tốt</p>
+
+<p>- nhanh nhẹn tự chủ trong c&ocirc;ng việc</p>
+
+<p>- c&oacute; khả năng l&agrave;m mockup v&agrave; c&aacute;c y&ecirc;u cầu thiết kế kh&aacute;c</p>
+
+<p>- C&oacute; am hiểu về thời trang l&agrave; 1 lợi thế</p>
+
+<p>Đ&uacute;ng hẹn, tr&aacute;ch nhiệm trong c&ocirc;ng việc l&agrave; điều bắt buộc. Lương thoả thuận. Vui l&ograve;ng li&ecirc;n hệ, xin cảm ơn!</p>
+"
+3029,Content Creator cho sản phẩm Chatbot AI,"<p>1. M&ocirc; Tả C&ocirc;ng Việc</p>
+
+<p>Ch&uacute;ng t&ocirc;i đang t&igrave;m kiếm một Content Creator s&aacute;ng tạo v&agrave; chuy&ecirc;n nghiệp c&oacute; kinh nghiệm trong sản xuất video quảng c&aacute;o để hỗ trợ tạo ra c&aacute;c video hấp dẫn, gi&uacute;p quảng b&aacute; phần mềm quản l&yacute; tin nhắn đa k&ecirc;nh. Ứng vi&ecirc;n sẽ l&agrave;m việc c&ugrave;ng đội ngũ marketing để x&acirc;y dựng c&aacute;c video truyền tải r&otilde; r&agrave;ng lợi &iacute;ch v&agrave; t&iacute;nh năng của phần mềm cho đối tượng kh&aacute;ch h&agrave;ng ch&iacute;nh l&agrave; doanh nghiệp vừa v&agrave; nhỏ (SME) v&agrave; c&aacute;c chủ doanh nghiệp trong c&aacute;c ng&agrave;nh như FnB, Spa, Gi&aacute;o dục, v&agrave; Du lịch.</p>
+
+<p>2. Tr&aacute;ch Nhiệm C&ocirc;ng Việc</p>
+
+<p>Ph&aacute;t triển &yacute; tưởng s&aacute;ng tạo, l&ecirc;n kịch bản cho c&aacute;c video quảng c&aacute;o.</p>
+
+<p>Sản xuất c&aacute;c video chất lượng cao (2-5 ph&uacute;t) để giới thiệu t&iacute;nh năng nổi bật như ph&acirc;n t&iacute;ch cảm x&uacute;c, quản l&yacute; rủi ro, v&agrave; cải thiện chăm s&oacute;c kh&aacute;ch h&agrave;ng.</p>
+
+<p>Tạo motion graphics, animation v&agrave; c&aacute;c hiệu ứng h&igrave;nh ảnh bắt mắt để minh họa c&aacute;ch sử dụng phần mềm.</p>
+
+<p>Chỉnh sửa video ph&ugrave; hợp cho nhiều nền tảng: Facebook, YouTube, TikTok, v&agrave; Google Ads.</p>
+
+<p>Tối ưu h&oacute;a nội dung video theo thị hiếu của từng đối tượng (quản l&yacute; doanh nghiệp, chủ SME).</p>
+
+<p>Kết hợp nhạc nền, lồng tiếng, phụ đề v&agrave; hiệu ứng theo đ&uacute;ng nhận diện thương hiệu.</p>
+
+<p>Phối hợp với đội ngũ marketing để đảm bảo nội dung ph&ugrave; hợp với chiến lược v&agrave; th&ocirc;ng điệp của từng chiến dịch.</p>
+
+<p>Cải thiện v&agrave; chỉnh sửa video dựa tr&ecirc;n phản hồi v&agrave; kết quả từ c&aacute;c chiến dịch quảng c&aacute;o.</p>
+
+<p>3. Y&ecirc;u Cầu Kỹ Năng</p>
+
+<p>C&oacute; tối thiểu 2 năm kinh nghiệm sản xuất video v&agrave; s&aacute;ng tạo nội dung, với portfolio thể hiện c&aacute;c video quảng c&aacute;o hoặc dự &aacute;n li&ecirc;n quan đến SaaS.</p>
+
+<p>Th&agrave;nh thạo c&aacute;c phần mềm chỉnh sửa video (v&iacute; dụ: Adobe Premiere, After Effects, Final Cut Pro hoặc DaVinci Resolve).</p>
+
+<p>C&oacute; khả năng kể chuyện tốt v&agrave; c&oacute; gu thẩm mỹ về h&igrave;nh ảnh v&agrave; m&agrave;u sắc.</p>
+
+<p>Kinh nghiệm sản xuất c&aacute;c video ngắn (30s&ndash;1 ph&uacute;t) cho c&aacute;c nền tảng TikTok, Facebook.</p>
+
+<p>Hiểu biết cơ bản về phần mềm SaaS hoặc nền tảng tin nhắn đa k&ecirc;nh l&agrave; một lợi thế.</p>
+
+<p>C&oacute; khả năng l&agrave;m việc độc lập v&agrave; ho&agrave;n th&agrave;nh đ&uacute;ng hạn.</p>
+
+<p>Kinh nghiệm với c&aacute;c sản phẩm li&ecirc;n quan đến AI v&agrave; khả năng giải th&iacute;ch c&aacute;c kh&aacute;i niệm phức tạp một c&aacute;ch dễ hiểu.</p>
+
+<p>Kỹ năng giao tiếp tốt v&agrave; khả năng l&agrave;m việc từ xa với đội ngũ.</p>
+
+<p>4. Phạm Vi C&ocirc;ng Việc &amp; Kết Quả Mong Đợi</p>
+
+<p>Kết quả đầu ra:</p>
+
+<p>3-5 video quảng c&aacute;o d&agrave;i (2-5 ph&uacute;t).</p>
+
+<p>2-3 video ngắn (30s&ndash;1 ph&uacute;t) cho quảng c&aacute;o tr&ecirc;n mạng x&atilde; hội.</p>
+
+<p>Video c&oacute; t&iacute;ch hợp hiệu ứng motion graphics v&agrave; text overlay.</p>
+
+<p>5. Quyền Lợi</p>
+
+<p>T&ugrave;y thuộc v&agrave;o số lượng video v&agrave; độ phức tạp</p>
+
+<p>C&oacute; thưởng nếu dự &aacute;n đạt hiệu quả cao v&agrave; tạo t&aacute;c động lớn đến chiến dịch.</p>
+",1035,2,1,"<p>Biết sử mạng x&atilde; hội</p>
+"
+3030,"Đưa ra kế hoạch, chiến lược cho công việc Starup bán áo thun local brand","<p>- Đưa ra kế hoạch tổng qu&aacute;t, chiến lược cho c&ocirc;ng việc</p>
+
+<p>C&oacute; thể chọn l&agrave;m th&ecirc;m hỗ trợ hoặc quản l&yacute; c&aacute;c đầu việc sau (sẽ được trả th&ecirc;m theo thương lượng):</p>
+
+<p>- Hỗ trợ x&acirc;y dựng thương hiệu v&agrave; Marketing</p>
+
+<p>- T&igrave;m kiếm xưởng sản xuất: T&igrave;m một xưởng sản xuất uy t&iacute;n, c&oacute; chất lượng sản phẩm tốt v&agrave; gi&aacute; cả hợp l&yacute;.</p>
+
+<p>- Quản l&yacute; chất lượng: Kiểm so&aacute;t chặt chẽ chất lượng sản phẩm trước khi đưa ra thị trường.</p>
+",1034,2,1,"<p>C&oacute; kinh nghiệm c&ocirc;ng việc tương tự 2 năm</p>
+"
+3031,Viết plugin wordpress,"<p>T&ocirc;i cần viết mốt plugin cho ph&eacute;p kết nối đồng bộ giữa trang web của t&ocirc;i v&agrave; một b&ecirc;n thứ 3, đ&atilde; c&oacute; docs api sẵn</p>
+",1030,1,2,"<p>C&oacute;&nbsp; kiến thức về lập tr&igrave;nh</p>
+"
+3032,Cần php senior maintain upgrade UI web theo figma,"<p>link dự &aacute;n</p>
+
+<p>https://drive.google.com/drive/folders/11Dc6UmgBNpNJbGQpFNCaHa9HmxvdAW0Z?usp=sharing</p>
+",1030,1,2,"<p>c&oacute; kinh nghiệp php 5 năm</p>
+"
+3033,Mình cần hỗ trợ tối ưu và chạy Quảng cáo Shopee,"<p>M&igrave;nh cần hỗ trợ tối ưu v&agrave; chạy Quảng c&aacute;o Shopee</p>
+
+<p>Vui l&ograve;ng gửi th&ocirc;ng tin chi tiết qua nh&eacute;.</p>
+
+<p>Xin cảm ơn.</p>
+",1034,1,1,"<p>C&oacute; kinh nghiệm với c&ocirc;ng việc li&ecirc;n quan</p>
+"
+3034,Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social,"<p>M&igrave;nh cần t&igrave;m 1 bạn c&oacute; kinh nghiệm về ph&aacute;t triển nội dung k&ecirc;nh social. M&igrave;nh cần l&ecirc;n kế hoạch bi&ecirc;n tập nội dung về tin tức thể thao b&oacute;ng đ&aacute; , phối hợp với editter để đăng nền nền tảng tiktok fb reel</p>
+",1034,2,2,"<p>Biết bi&ecirc;n t&acirc;p v&agrave; c&oacute; kiến thức về thể thao</p>
+"
+3035,Thiết kế website giáo dục,"<p>1. Đ&aacute;nh gi&aacute; hiện trạn website hiện c&oacute;.</p>
+
+<p>2. Thiết kế lại website dựa tr&ecirc;n website sẵn c&oacute; tr&ecirc;n nền tảng Workpress.</p>
+
+<p>3. Quản l&yacute; website (nếu được).</p>
+",1030,1,2,"<p>C&oacute; kỹ năng ph&acirc;n t&iacute;ch v&agrave; mắt thẩm mỹ</p>
+"
+3036,Làm video tiktok từ 45 -50s theo nội dung đã cho,"<p>Bạn sẽ nhận được một nội dung chủ đề v&agrave; dựng một video tiktok ph&ugrave; hợp với chủ đề đ&oacute;. Sau mỗi video bạn sẽ nhận được tiền lu&ocirc;n nếu video đạt y&ecirc;u cầu. Ch&uacute;ng t&ocirc;i cần t&igrave;m 1-2 bạn để hợp t&aacute;c l&acirc;u d&agrave;i. Vui l&ograve;ng gửi cho t&ocirc;i một v&agrave;i thiết kế m&agrave; bạn t&acirc;m đắc. Ch&uacute;ng t&ocirc;i sẽ check xem n&oacute; c&oacute; ph&ugrave; hợp với định hướng ch&uacute;ng t&ocirc;i trước khi đưa ra quyết định</p>
+",1035,2,1,"<p>C&oacute; k&ecirc;nh tiktok với &iacute;t nhất 100 lượt theo d&otilde;i</p>
+"
+3037,"Làm video tiktok, youtube quảng cáo sản phẩm","<p>C&ocirc;ng ty Bất Động Sản H&agrave; Đ&ocirc; Ph&aacute;t cần tuyển 02 cộng t&aacute;c vi&ecirc;n media</p>
+
+<p>- Lĩnh vực : bất động sản</p>
+
+<p>-Số lượng : 02</p>
+
+<p>-Lương thoả thuận</p>
+
+<p>- Nội dung y&ecirc;u cầu : y&ecirc;u cầu quay , edit , đề xuất content ( nếu c&oacute; khả năng ), tư vấn hướng social media cho doanh nghiệp</p>
+",1034,2,1,"<p>đảm bảo đ&uacute;ng tiến độ 2 ng&agrave;y 1 clip, l&agrave;m việc chuy&ecirc;n nghiệp , trung thực, linh hoạt , nhanh nhẹn, s&aacute;ng tạo,&hellip;</p>
+"
+3038,TVC Quảng Cáo Nhẫn Cưới/ Cầu Hôn,"<p>Cần 1 kịch bản TVC dạng phim ngắn 1 ph&uacute;t quảng c&aacute;o về sản phẩm trang sức nhẫn cưới/ nhẫn cầu h&ocirc;n</p>
+",1034,1,2,"<p>Ngoại h&igrave;nh ưa nh&igrave;n, cao tr&ecirc;n 1m8</p>
+"
+3039,Trợ lý từ xa,"<p>T&igrave;m trợ l&yacute; từ xa, c&aacute;c c&ocirc;ng việc chủ yếu li&ecirc;n quan đến tổng hợp, thu thập, t&oacute;m tắt th&ocirc;ng tin, viết b&aacute;o c&aacute;o về c&aacute;c chủ đề m&ocirc;i trường, n&ocirc;ng nghiệp, biến đổi kh&iacute; hậu, ph&aacute;t triển bền vững, ...</p>
+",1038,2,1,"<p>C&oacute; kinh nghiệm với lĩnh vực li&ecirc;n quan</p>
+"
+3040,Quản lý blog,"<p>T&igrave;m t&agrave;i liệu ph&aacute;p luật, tin tức li&ecirc;n quan cho blog</p>
+",1035,2,1,"<p>Kh&ocirc;ng y&ecirc;u cầu kinh nghiệm</p>
+"
+3041,Chụp ảnh sự kiện tại Hà Nội,"<p>B&ecirc;n m&igrave;nh cần tuyển 1 bạn chụp h&igrave;nh sự kiện trao bằng ng&agrave;y 01/07/2024 từ 13:30-15:30 tại Ho&agrave;n Kiếm, H&agrave; Nội.</p>
+",1035,1,2,"<p>C&oacute; kinh nghiệm chụp ảnh</p>
+"
+3042,Tìm freelancer chụp ảnh Hội thảo PVN tại TP.Hồ Chí Minh ,"<p>chụp sự kiện cho 130 người từ 13h00 đến 17h00 v&agrave; l&agrave;m 1 cjip ngắn 5 -10p - chụp gala 18h30 đến 20h</p>
+",1035,1,2,"<p>C&oacute; kinh nghiệm chụp ảnh</p>
+"
+3043,Viết phần mềm đăng ký mua vàng online,"<p>T&ocirc;i muốn viết phần mềm đăng k&yacute; mua v&agrave;ng online (sử dụng phương thức http request). Trong đ&oacute;, c&oacute; c&aacute;c chức năng như: đăng k&yacute; nhiều t&agrave;i c&ugrave;ng l&uacute;c, c&oacute; chức năng hẹn giờ thực hiện, c&oacute; thể lặp lại hoạt động đăng k&yacute; sau khoảng thời gian n&agrave;o đ&oacute;</p>
+",1030,1,2,"<p>Tốt nghiệp cao đẳng trở l&ecirc;n</p>
+"
+3044,Tuyển lập trình VueJS + Strapi,"<p>Cần tuyền 1 bạn Frontend Dev mid-level, l&agrave;m việc freelance + remote, tham gia team startup b&ecirc;n m&igrave;nh.</p>
+",1030,2,1,"<p>Y&ecirc;u cầu c&oacute; 1-2 năm kinh nghiệm l&agrave;m việc với VueJS&nbsp;</p>
+"
+3045,Tìm bạn nào giỏi về vi phạm chính sách Facebook + phần mềm Facebook giúp mình quản lý group fanpage bằng phần mềm ,"<p># Tuyển Dụng: Chuy&ecirc;n Vi&ecirc;n Quảng C&aacute;o Facebook</p>
+",1035,2,1,"<p>- C&oacute; tr&ecirc;n 1 năm kinh nghiệm chạy quảng c&aacute;o trong ng&agrave;nh cờ bạc (T&agrave;i Xỉu, Xổ Số, B&oacute;ng Đ&aacute;).</p>
+
+<p>- Quen thuộc với nhiều loại quảng c&aacute;o v&agrave; c&oacute; khả năng chạy đa dạng c&aacute;c loại h&igrave;nh quảng c&aacute;o.</p>
+
+<p>- Kỹ năng giải quyết c&aacute;c vấn đề như t&agrave;i khoản chết, chi ph&iacute; cao v&agrave; c&aacute;c kh&oacute; khăn kh&aacute;c trong qu&aacute; tr&igrave;nh chạy quảng c&aacute;o.</p>
+
+<p>- Am hiểu c&aacute;ch l&aacute;ch c&aacute;c quy định về quảng c&aacute;o vi phạm ch&iacute;nh s&aacute;ch ng&agrave;nh cờ bạc.</p>
+
+<p>## Tr&aacute;ch Nhiệm C&ocirc;ng Việc</p>
+
+<p>1. **Điều Phối v&agrave; Chuẩn Bị T&agrave;i Liệu Quảng C&aacute;o**:</p>
+
+<p>- Chịu tr&aacute;ch nhiệm điều phối v&agrave; chuẩn bị t&agrave;i liệu quảng c&aacute;o.</p>
+
+<p>- Theo d&otilde;i kịp thời hiệu quả của t&agrave;i liệu quảng c&aacute;o.</p>
+
+<p>- Tối ưu h&oacute;a li&ecirc;n tục v&agrave; thường xuy&ecirc;n tổng kết kết quả chạy quảng c&aacute;o.</p>
+
+<p>2. **Quản L&yacute; Chạy Quảng C&aacute;o H&agrave;ng Ng&agrave;y**:</p>
+
+<p>- Quản l&yacute; v&agrave; đảm bảo chạy quảng c&aacute;o ch&iacute;nh x&aacute;c h&agrave;ng ng&agrave;y.</p>
+
+<p>- Theo d&otilde;i hiệu quả v&agrave; kịp thời tối ưu h&oacute;a quảng c&aacute;o.</p>
+
+<p>3. **Ph&acirc;n T&iacute;ch Hiệu Quả C&aacute;c K&ecirc;nh Quảng C&aacute;o**:</p>
+
+<p>- Thường xuy&ecirc;n tiến h&agrave;nh ph&acirc;n t&iacute;ch tổng thể về hiệu quả của c&aacute;c k&ecirc;nh chạy quảng c&aacute;o.</p>
+
+<p>- Tối ưu h&oacute;a kế hoạch quảng c&aacute;o dựa tr&ecirc;n kết quả ph&acirc;n t&iacute;ch dữ liệu để n&acirc;ng cao hiệu quả quảng c&aacute;o.</p>
+
+<p>---</p>
+
+<p>Nếu bạn l&agrave; người đam m&ecirc; v&agrave; c&oacute; kinh nghiệm trong lĩnh vực n&agrave;y, h&atilde;y gửi hồ sơ của bạn cho ch&uacute;ng t&ocirc;i!</p>
+"
+3046,"Cần tìm Freelancer thiết kế website, gian hàng trên sàn TMĐT cho lĩnh vực bánh nhập từ Trung Quốc","<p>Ch&agrave;o c&aacute;c bạn Freelancer,</p>
+
+<p>M&igrave;nh b&aacute;n b&aacute;nh ngọt nhập khẩu trung quốc với nước &eacute;p tr&aacute;i c&acirc;y đ&oacute;ng chai n&ecirc;n cần t&igrave;m freelancer thiết kế website với x&acirc;y dựng cửa h&agrave;ng tr&ecirc;n shoppee với tiktok.</p>
+
+<p>C&ocirc;ng việc cụ thể như sau: Trang chủ, gian h&agrave;ng, mua h&agrave;ng, thanh to&aacute;n &hellip; tr&ecirc;n website v&agrave; s&agrave;n thương mại điện tử.</p>
+
+<p>C&acirc;c bạn inbox để trao đổi chi tiết hơn ạ</p>
+",1030,1,2,"<p>C&oacute; kinh nghiệm l&agrave;m phần mềm thương mại điện tử</p>
+"
+3047,Tạo video quảng cáo và đăng lên các nền tảng mạng xã hội Thị trường Mỹ ,"<p>Ch&uacute;ng t&ocirc;i đang t&igrave;m kiếm một TikToker, Facebooker, Youtuber tại thị trường Mỹ để tạo v&agrave; đăng tải video quảng c&aacute;o trải nghiệm ứng dụng DrawingEZ. Mục ti&ecirc;u l&agrave; thu h&uacute;t người d&ugrave;ng mới tải ứng dụng. Nếu bạn c&oacute; t&agrave;i khoản TikToker, Facebooker, Youtuber với lượng người theo d&otilde;i lớn v&agrave; kỹ năng s&aacute;ng tạo nội dung, h&atilde;y hợp t&aacute;c với ch&uacute;ng t&ocirc;i để giới thiệu ứng dụng vẽ độc đ&aacute;o n&agrave;y!</p>
+",1035,2,2,"<p>T&agrave;i khoản TikToker, Facebooker, Youtuber thuộc thị trường Mỹ với lượng người theo d&otilde;i lớn v&agrave; tương t&aacute;c tốt.</p>
+
+<p>C&oacute; kinh nghiệm tạo nội dung quảng c&aacute;o hoặc trải nghiệm sản phẩm.</p>
+
+<p>Khả năng s&aacute;ng tạo video độc đ&aacute;o, hấp dẫn, v&agrave; tương t&aacute;c cao với người xem.</p>
+
+<p>Quan t&acirc;m đến ứng dụng vẽ hoặc c&aacute;c nội dung li&ecirc;n quan đến s&aacute;ng tạo.</p>
+
+<p>Tr&aacute;ch nhiệm:</p>
+
+<p>Tạo v&agrave; đăng video trải nghiệm ứng dụng DrawingEZ, hướng dẫn người d&ugrave;ng tải v&agrave; sử dụng app.</p>
+
+<p>Sử dụng chiến lược s&aacute;ng tạo để thu h&uacute;t đối tượng người d&ugrave;ng tại Mỹ.</p>
+
+<p>Phối hợp với đội ngũ của ch&uacute;ng t&ocirc;i để đảm bảo th&ocirc;ng điệp quảng c&aacute;o ph&ugrave; hợp với ứng dụng.</p>
+
+<p>Quyền lợi:</p>
+
+<p>Cơ hội hợp t&aacute;c l&acirc;u d&agrave;i với ứng dụng s&aacute;ng tạo</p>
+"
+3048,Làm 01 video giới thiệu công ty ngắn + 01 video giới thiệu dịch vụ,"<p>Cần đối t&aacute;c x&acirc;y dựng 2 video:</p>
+
+<p>- 01 video giới thiệu nhanh c&ocirc;ng ty (30s)</p>
+
+<p>+ Dựa tr&ecirc;n mong muốn v&agrave; c&aacute;c nội dung doanh nghiệp muốn triển khai để l&ecirc;n idea</p>
+
+<p>+ Quay chụp th&ecirc;m nguy&ecirc;n liệu cho video</p>
+
+<p>+ Dựng v&agrave; trả video ho&agrave;n chỉnh độ ph&acirc;n giải 2K trở l&ecirc;n</p>
+
+<p>- 01 video giới thiệu dịch vụ (60s)</p>
+
+<p>+ Cần trao đổi off để hiểu r&otilde; chức năng của sản phẩm (phần mềm quản l&yacute; kho h&agrave;ng)</p>
+
+<p>+ Dựng animation để kh&aacute;ch h&agrave;ng hiểu được chức năng sản phẩm</p>
+
+<p>+ Độ ph&acirc;n giải 2K trở l&ecirc;n</p>
+",1035,1,1,"<p>C&oacute; kinh nghiệm l&agrave;m dự &aacute;n tương tự</p>
+"
+3049,Xử lý khôi phục tài khoản bán hàng thương mại điện tử,"<p>Li&ecirc;n hệ đội ngũ chăm s&oacute;c kh&aacute;ch h&agrave;ng để xử l&yacute; kh&ocirc;i phục t&agrave;i khoản bản h&agrave;ng online</p>
+",1035,1,1,"<p>+ C&oacute; m&aacute;y t&iacute;nh, laptop</p>
+
+<p>+ Bi&ecirc;t tiếng anh giao tiếp để thực hiện live chat hoặc call support</p>
+"
+3050,Dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh,"<p>Cần tuyển một bạn c&oacute; kinh nghiệm dịch thuật để dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh.</p>
+",1038,2,1,"<p>Y&ecirc;u cầu c&oacute; bằng đại học chuy&ecirc;n ng&agrave;nh tiếng Anh hoặc chứng chỉ tiếng Anh TOEFL, IELTS, TOEIC, CEFR...</p>
+"
+3051,Chụp ảnh món ăn nhà hàng ,"<p>Chụp h&igrave;nh 35 m&oacute;n ăn, mỗi m&oacute;n 2 g&oacute;c kh&aacute;c nhau</p>
+
+<p>Chụp cận cảnh, y&ecirc;u cầu sắc n&eacute;t, m&agrave;u l&agrave;m m&oacute;n ăn hấp dẫn để l&agrave;m menu</p>
+",1035,1,2,"<p>Nhiếp ảnh &iacute;t nhất 3 năm</p>
+"
+3052,LÀM VIỆC CHO WEBSITE LIKE SUB CÁC DỊCH VỤ MẠNG,"<p>Li&ecirc;n hệ để biết nội dung</p>
+",1035,2,1,"<p>kh&ocirc;ng y&ecirc;u cầu kinh nghiệm thu nhập dựa tr&ecirc;n lượng sản phẩm b&aacute;n ra k&egrave;m theo hoa hồng</p>
+"
+3053,Unity Developer Needed for Game Fixes,"<p>I own a game currently running on Unity version 2017, and I need a Unity game developer to help me with the following tasks:</p>
+
+<p>- Upgrade the project to Unity version 2020</p>
+
+<p>- Fix issues with Ads not displaying</p>
+
+<p>- Fix issues with Facebook login permissions not being granted</p>
+
+<p>- Fix compatibility issues with external packages integrated into the project</p>
+",1030,2,1,"<p>The project uses Spine 2D, so a developer with experience in Spine 2D is required.</p>
+"
+3054,Code bot Telegram ,"<p>T&ocirc;i muốn 1 con bot telegram th&ocirc;ng b&aacute;o cho t&ocirc;i giao dịch mới từ 1 địa chỉ v&iacute; tr&ecirc;n solscan.io</p>
+
+<p>V&iacute; dụ : V&iacute; A chuyển 10 sol tới v&iacute; B, ngay lập tức bot telegram th&ocirc;ng b&aacute;o cho t&ocirc;i địa chỉ v&iacute; B đ&oacute; v&agrave; cho ph&eacute;p t&ocirc;i click v&agrave;o địa chỉ v&iacute; để copy lu&ocirc;n</p>
+
+<p>V&agrave; t&ocirc;i muốn tự sửa được v&iacute; A v&agrave; số tiền chuyển</p>
+",1030,1,2,"<p>Kinh nghiệm 2 năm</p>
+"
+3055,"Xây dựng kênh thương hiệu: Facebook fanpage, Insta, Pinterest","<p>&nbsp;- l&ecirc;n kế hoạch x&acirc;y dựng c&aacute;c k&ecirc;nh: fanpage, instagram, pinterest với đối tượng người xem l&agrave; kh&aacute;ch nước ngo&agrave;i (cụ thể UK)</p>
+
+<p>- thực hiện kế hoạch đề ra</p>
+
+<p>- b&aacute;o c&aacute;o về c&aacute;c th&ocirc;ng số kết quả khi x&acirc;y dựng k&ecirc;nh</p>
+",3,2,1,"<p>hai năm kinh nghiệm với lĩnh vực tương đương</p>
+"
+3056,Nhân Viên Content Facebook thú cưng,"<p>Cần 1 bạn viết content đăng Facebook. Số lượng khoảng 15 b&agrave;i viết/th&aacute;ng c&oacute; chỉnh ảnh. Spam c&aacute;c group tr&ecirc;n group li&ecirc;n quan đến th&uacute; cưng</p>
+",1038,2,1,"<p>Kh&ocirc;ng y&ecirc;u cầu kinh nghiệm</p>
+"
+3057,Quảng cáo google cho lớp học làm bánh,"<p>The flour cần tuyển 1 bạn c&oacute; kinh nghiệm gg ads hỗ trợ quảng c&aacute;o lớp học l&agrave;m b&aacute;nh</p>
+",1034,1,2,"<p>một năm kinh nghiệm</p>
+"
+3058,Chạy VPS quốc tế tăng giờ xem youtube,"<p>Hiện tại b&ecirc;n m&igrave;nh đang c&oacute; dự &aacute;n quốc tế mảng Youtube , cần chạy 8000 giờ xem trong 10 ng&agrave;y.</p>
+",1035,2,1,"<p>- Am hiểu chạy VPS quốc tế (ưu ti&ecirc;n VPS Us, Uk, Trung đ&ocirc;ng)</p>
+
+<p>- Am hiểu thuật to&aacute;n của Youtube, Google</p>
+
+<p>- Share link, viết b&agrave;i</p>
+
+<p>- Seeding tiếng anh (c&oacute; thể d&ugrave;ng AI để seeding nhưng phải giống người thật)</p>
+
+<p>Bạn n&agrave;o thấy thực lực của m&igrave;nh đủ y&ecirc;u cầu th&igrave; nhắn tin trực tiếp cho m&igrave;nh. Cảm ơn!</p>
+"
+3059,Thiết kế theo văn bản có sẵn,"<p>M&igrave;nh sẽ đưa mẫu cho c&aacute;c bạn chỉ cần l&agrave;m như mẫu l&agrave; được</p>
+",1038,2,1,"<p>ch&iacute;nh x&aacute;c v&agrave; chỉnh chu</p>
+"
+3060,Nhân Viên Content Marketing Remote – Admin bóng đá,"<p>&bull; X&acirc;y dựng, quản l&yacute; nội dung tr&ecirc;n Fanpage, Telegram, Tiktok, Youtube của c&ocirc;ng ty (bao gồm chữ v&agrave; h&igrave;nh ảnh) theo định hướng c&oacute; sẵn</p>
+
+<p>&bull; Tham gia c&ugrave;ng team x&acirc;y dựng v&agrave; quản l&yacute; c&aacute;c chiến dịch Marketing, đ&oacute;ng g&oacute;p c&aacute;c &yacute; tưởng nội dung s&aacute;ng tạo cho chiến dịch Digital Marketing.</p>
+
+<p>&bull; Ưu ti&ecirc;n ứng vi&ecirc;n đ&atilde; c&oacute; kinh nghiệm l&agrave;m admin c&aacute;c page b&oacute;ng đ&aacute; lớn</p>
+",1034,2,1,"<p>&bull; C&oacute; kỹ năng viết b&agrave;i quảng c&aacute;o, quản l&yacute; cộng đồng.</p>
+
+<p>&bull; Sử dụng th&agrave;nh thạo vi t&iacute;nh văn ph&ograve;ng.</p>
+
+<p>&bull; Đ&atilde; c&oacute; kinh nghiệm x&acirc;y dựng hoặc quản trị page, Telegram channel từ 1 năm, với c&aacute;c vị tr&iacute; tương đương: Content Viral, Content Creator</p>
+
+<p>&bull; Tiếng Anh đọc hiểu cơ bản</p>
+
+<p>&bull; C&oacute; khả năng tổng hợp th&ocirc;ng tin từ nhiều nguồn kh&aacute;c nhau.</p>
+
+<p>&bull; C&oacute; khả năng thiết kế cơ bản l&agrave; lợi thế</p>
+"
