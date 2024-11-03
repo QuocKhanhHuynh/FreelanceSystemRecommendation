@@ -1,9 +1,9 @@
-ID,Tên công việc,Mô tả,Loại công việc,Loại lương,Yêu cầu,Danh sách kỹ năng,Lĩnh vực
-1,Lập trình web bán hàng,Cần lập trình viên có ít nhất 2 năm kinh nghiệp với các công nghệ có liên quan,1,2,,"['HTML/CSS', 'MongoDB', 'Node.JS']",IT
-2,Thiết kế giao diện website,Cần người có kinh nghiệm về Frontend,2,1,,['HTML/CSS'],IT
-1002,Lập trình web bán hàng,Cần có kỹ năng,1,2,,"['HTML/CSS', 'Java', 'OOP']",Finance
-2002,Dự án demo,Mô tả dự án,1,2,,"['HTML/CSS', '.NET']",IT
-3010,Lập bảng tính (chứa công thức) số liệu trong excel,Tôi cần lập 1 trang tính Excel chứa công thức tính toán các số liệu nhập vào để ra 1 kết quả cụ thể,1,2,Từng làm dự án tương tự,"['Python', 'Microsoft Excel']",Phần mềm
+ID,Tên công việc,Mô tả,Loại công việc,Loại lương
+1,Lập trình web bán hàng,Cần lập trình viên có ít nhất 2 năm kinh nghiệp với các công nghệ có liên quan,1,2
+2,Thiết kế giao diện website,Cần người có kinh nghiệm về Frontend,2,1
+1002,Lập trình web bán hàng,Cần có kỹ năng,1,2
+2002,Dự án demo,Mô tả dự án,1,2
+3010,Lập bảng tính (chứa công thức) số liệu trong excel,Tôi cần lập 1 trang tính Excel chứa công thức tính toán các số liệu nhập vào để ra 1 kết quả cụ thể,1,2
 3012,Thiết kế App quản lý bảo trì,"Thiết kế APP sử dụng cho công ty cần có các chức năng chính như sau:
 1) Quản lý tài sản.
 2) Quản lý công việc.
@@ -11,48 +11,38 @@ ID,Tên công việc,Mô tả,Loại công việc,Loại lương,Yêu cầu,Danh
 4) Báo cáo, ghi nhận các thông tin tiến độ sau bảo trì.
 5) Xuất được dữ liệu.
 6) Bảo trì, chỉnh sửa app theo yêu cầu.
-7) Sử dụng 2 ngôn ngữ Việt, Anh",1,2,không yêu cầu,"['Java', 'OOP']",Phần mềm
+7) Sử dụng 2 ngôn ngữ Việt, Anh",1,2
 3013,Seeding trên mạng xã hội,"- Seeding trên trang mạng xã hội theo yêu cầu của nhà tuyển dụng
-- Đã có mẫu, chỉ cần follow theo là có thể làm được",2,1,không yêu cầu,['Google Sheets'],Truyền thông đa phương tiện
+- Đã có mẫu, chỉ cần follow theo là có thể làm được",2,1
 3014,"Chuyên viên Email, Zalo Marketing & Digital Marketing","- Quản lý lịch email, zalo gửi số lượng và chủ đề, xác định nhịp dựa trên kiểm tra hiệu suất, các phương pháp hay nhất và xu hướng của ngành.
 - Quản lí và thiết lập phễu email marketing, zalo marketing trên hệ thống.
 - Quản lý quy trình email, zalo marketing một cách hiệu quả, quản lý các chương trình đạt đến chỉ số nhất định về tỉ lệ mở, tỉ lệ xem … góp phần gia tăng tỉ lệ mua hàng, tỉ lệ chuyển đổi.
 - Kiểm tra các mẫu email, zalo và cấu trúc nhắn tin để xác định phương pháp tiếp cận sáng tạo tối ưu. Tạo nội dung email cho người dùng cũ.
 - Xác định và phân tích cơ sở dữ liệu, hành vi / kỳ vọng của khách hàng để tăng cường cơ hội kinh doanh.
-- Lập kế hoạch truyền thông xã hội để phát triển các chiến dịch tiếp thị các kênh khác.",2,1,Yêu cầu ít nhất 2 năm kinh nghiệm,"['Tiếng Anh', 'Microsoft Excel', 'WordPress']",Truyền thông đa phương tiện
+- Lập kế hoạch truyền thông xã hội để phát triển các chiến dịch tiếp",2,1
 3015,FREELANCER FACEBOOK ADS,"1. Mô Tả công việc:
 - Thiết lập, triển khai và quản lý các chiến dịch Quảng cáo trên Facebook để thúc đẩy nhận diện thương hiệu, mức độ tương tác và chuyển đổi.
 - Theo dõi và phân tích hiệu suất chiến dịch, cung cấp báo cáo chi tiết và thông tin chuyên sâu để tối ưu hóa và cải thiện kết quả.
 - Phân bổ và quản lý ngân sách quảng cáo hiệu quả để đảm bảo ROI tốt nhất cho mỗi chiến dịch.
 - Làm việc chặt chẽ với nhóm sáng tạo để phát triển các quảng cáo hấp dẫn và nội dung thu hút được đối tượng mục tiêu
 - Sử dụng các công cụ và nền tảng phân tích để theo dõi số liệu hiệu suất và đưa ra quyết định dựa trên dữ liệu
-- Luôn nắm bắt các xu hướng mới nhất, các phương pháp hay nhất và những thay đổi về thuật toán để đảm bảo các chiến lược của chúng tôi vẫn hiệu quả.
-2. Yêu Cầu :
-- Có kinh nghiệm làm việc tối thiểu 1 năm cho vị trí tương đương. Từng triển khai ngân sách quảng cáo lớn.
-- Có kinh nghiệm triển khai thị trường Global : US, UK, EU...là lợi thế
-- Tiếng Anh thành thạo đạt điểm IELTS trên 6.0 hoặc tương đương.
-- Đã trực tiếp chi tiêu ngân sách marketing lớn và mang về doanh thu cho công ty (chuẩn bị sẵn case study trong CV xin việc).
-- Nhạy bén với xu hướng thị trường, xu hướng marketing, ứng dụng công nghệ-AI.
-- Có kỹ năng chuyên môn vững chắc, bao gồm sự quen thuộc với Meta Ads Manager, các công cụ phân tích và chiến lược nhắm mục tiêu đối tượng.
-- Phân tích dữ liệu: Hiểu và kiểm soát được các chỉ số quan trọng trong chiến dịch quảng cáo.
-- Tư duy cầu tiến và ham học hỏi, mong muốn bứt phá giới hạn và thử thách bản thân ở các lĩnh vực mới, vị trí cao trong công việc.",2,1,Cần khả nằng tư duy phân tích,['Tiếng Anh'],Marketing
+- Luôn nắm bắt các xu hướng mới nhất, c&",2,1
 3016,Thiết kế Logo cho Công ty xuất khẩu trái cây,"Thiết kế Logo cho Công ty xuất khẩu trái cây
 ---
 Màu sắc: Sử dụng các màu sắc nhẹ nhàng và tự nhiên như xanh lá cây, vàng, cam, đỏ, thể hiện sự tươi mát, sức khỏe và sự tự nhiên.
 Biểu tượng: Kết hợp với các biểu tượng thể hiện sự sống khỏe mạnh, tự nhiên, 2 bàn tay nâng niu trái cây.
 Phông chữ: Chọn phông chữ rõ ràng, hiện đại, và dễ đọc, cùng với một chút sự mềm mại để tạo cảm giác thân thiện và gần gũi.
 Phong cách thiết kế: Sử dụng phong cách tối giản nhưng tinh tế để tạo sự chuyên nghiệp và dễ nhận diện. Phong cách này cũng giúp logo dễ dàng được in trên các sản phẩm và bao bì khác nhau.
-Thông điệp: Đảm bảo logo truyền tải được thông điệp về sự kết hợp giữa khoa học và thiên nhiên, một hình ảnh hòa quyện giữa hiện đại và truyền thống của thương hiệu.",1,2,Có kinh nghiệm thiết kế logo,['Adobe Photoshop'],Truyền thông đa phương tiện
+Thông điệp: Đảm bảo logo truyền tải được thông điệp về sự kết hợp g",1,2
 3017,Thiết kế video giới thiệu sản phẩm,"Cần thiết kế GIF ngắn giới thiệu sản phẩm số (website, mobileapp)
-Ví dụ: https://dribbble.com/shots/24455042-Vet-App-Mobile-Design",1,2,Cần có kỹ năng thiết kế,['Figma'],Truyền thông đa phương tiện
+Ví dụ: https://dribbble.com/shots/24455042-Vet-App-Mobile-Design",1,2
 3018,Edit video ngắn tầm 1 phút -2 phút,"Bạn có thể cung cấp dịch vụ này? Thêm vào hồ sơ làm việc.
 Công ty Bất Động Sản Hà Đô Phát cần tuyển 02 cộng tác viên media
 - Lĩnh vực : bất động sản
 -Số lượng : 02
 -Lương theo sản phẩm
 - Nội dung yêu cầu : edit video ngắn tầm 1 phút - 2 phút
-- Yêu cầu : đảm bảo đúng tiến độ , làm việc chuyên nghiệp , trung thực, linh hoạt , nhanh nhẹn, sáng tạo,…",1,2,"Kiến thứ về bất động sản
-kỹ năng edit video",['Capcut'],Truyền thông đa phương tiện
+- Yêu cầu : đảm bảo đúng tiến độ , làm việc chuyên nghiệp , trung thực, linh hoạt , nhanh nhẹn, sáng tạo,…",1,2
 3019,Chụp ảnh sản phẩm,"Mô tả dự án:
 Sản phẩm: Bộ sản phẩm nến thơm mùa đông, gồm 11 sản phẩm và 7 combo.
 Phong cách chụp ảnh: Ấm áp, tinh tế, tối giản. Freelancer cần thể hiện rõ nét thiết kế và chất liệu của sản phẩm qua các góc chụp, tạo cảm giác ấm cúng phù hợp với mùa đông.
@@ -63,28 +53,12 @@ Yêu cầu về người mẫu: Không cần người mẫu, chỉ tập trung c
 Yêu cầu cụ thể cho freelancer:
 Chuẩn bị bối cảnh và phông nền:
 Freelancer tự chuẩn bị bối cảnh chụp, có thể sử dụng phông nền đơn sắc, vật dụng trang trí tối giản nhằm làm nổi bật sản phẩm.
-Sử dụng ánh sáng tự nhiên hoặc ánh sáng dịu nhẹ, tránh đổ bóng mạnh để tạo cảm giác ấm áp.
-Chụp ảnh sản phẩm:
-Chụp sản phẩm theo nhiều góc độ (toàn cảnh, chi tiết, cận cảnh) để thể hiện hết các yếu tố thiết kế.
-Có thể chụp nhóm sản phẩm để thể hiện combo hoặc làm nổi bật sự kết hợp giữa các sản phẩm.
-Thời gian hoàn thành:
-Hạn chót để bàn giao toàn bộ hình ảnh là trước ngày 31/10.
-Hậu kỳ:
-Không yêu cầu chỉnh sửa hậu kỳ. Freelancer cần bàn giao ảnh ở chất lượng cao, định dạng phù hợp cho quảng cáo, website và mạng xã hội.
-Bản quyền ảnh:
-Toàn quyền sử dụng hình ảnh cho mục đích quảng cáo, website, mạng xã hội của thương hiệu nến thơm.
-Thời gian & Địa điểm:
-Freelancer tự chuẩn bị địa điểm chụp (studio, phông nền,...).
-Yêu cầu báo giá:
-Vui lòng cung cấp báo giá chi tiết, bao gồm phí chụp ảnh và các khoản chi phí phát sinh (nếu có).",1,1,"- kỹ năng xử dụng mạng xã hội
-- Kỹ năng chụp ảnh",['Adobe Photoshop'],Truyền thông đa phương tiện
-3020,"Chụp ảnh, quay clip resort ở Mũi Né","Mình bên agency, cần tìm người quay chụp chuyên nghiệp cho khách hàng là resort 5 sao ở Mũi Né. Bạn nào làm được thì nhắn mình nhé.",1,2,Kỹ năng chụp ảnh và làm clip,['Adobe Photoshop'],Truyền thông đa phương tiện
+Sử dụng ánh sáng tự nhiên hoặc ánh sáng dịu nhẹ, tránh đổ bóng mạnh để tạo cảm giác ấm á",1,1
+3020,"Chụp ảnh, quay clip resort ở Mũi Né","Mình bên agency, cần tìm người quay chụp chuyên nghiệp cho khách hàng là resort 5 sao ở Mũi Né. Bạn nào làm được thì nhắn mình nhé.",1,2
 3021,Mình cần quay chụp không gian nội thất nhà ở,"Mình cần tìm bạn quay chụp không gian nội thất nhà ở
 - Chụp ảnh và xử lý ảnh
-- Quay dựng video dưới 10p",1,2,"- video editing
-- chụp ảnh
-- xử lý ảnh",['Adobe Photoshop'],Truyền thông đa phương tiện
-3022,Chụp ảnh sản phẩm tiệm trà,Cần tìm 1 team 2 - 3 người chụp ảnh khoảng 40 sản phẩm cho tiệm trà.,1,1,Kỹ năng chụp ảnh tốt,['Adobe Photoshop'],Truyền thông đa phương tiện
+- Quay dựng video dưới 10p",1,2
+3022,Chụp ảnh sản phẩm tiệm trà,Cần tìm 1 team 2 - 3 người chụp ảnh khoảng 40 sản phẩm cho tiệm trà.,1,1
 3023,Cần CTV viết bài SEO cho website mới tạo,"Bên mình cần tuyển ctv content viết nội dung chuẩn seo cho website và tối ưu onpage cho website. Công việc bao gồm :
 - Tối ưu Onpage
 - Viết bài chi tiết sản phẩm điều hòa : Daikin, panasonic, Funiki, Casper, LG
@@ -92,122 +66,64 @@ Vui lòng cung cấp báo giá chi tiết, bao gồm phí chụp ảnh và các 
 Yêu cầu :
 - Bài viết chuẩn SEO, internal link, tối ưu onpage, tối ưu các thẻ
 - Tự lên kế hoạch viết bài
-- Báo cáo qua gg sheet",2,1,Tốt nghiệp đại học,['Google Sheets'],Viết
+- Báo cáo qua gg sheet",2,1
 3024,Tìm content freelancer mảng F&B,"Viết bài quảng cáo facebook mảng F&B
-Triển khai dựa trên idea và hình ảnh có sẵn",1,2,Tốt nghiệp đại học,['Capcut'],Viết
+Triển khai dựa trên idea và hình ảnh có sẵn",1,2
 3025,"Nhập liệu, cập nhật sản phẩm cho fanpage facebook - Hợp tác thời vụ lâu dài","Cập nhật sản phẩm fanpage.
 - Đăng hình sản phẩm lên facebook để lấy link.
 - Nhập thông tin sản phẩm vào spreadsheet trên Drive. Có hơn 1000 sản phẩm thuộc các danh mục khác nhau.
 - Tuỳ chỉnh nội dung sản phẩm.
 Mình mong sẽ hợp tác lâu dài vì sau cái fanpage facebook mình sẽ có nhiều thay đổi về sau. Dự định sẽ làm 1 website bán hàng tren Haravan.
 Hiện giờ facebook page, website đã đi vào hoạt động và cập nhật của bạn sẽ lên ngay lập tức :)). Vai trò của bạn rất quan trọng với doanh nghiệp của mình.
-Bên mình sẽ trả theo công việc hoàn thành chứ không nhất thiết theo thời gian nên bạn có thể đề xuất hay nghĩ ra cách làm thuận tiện nhất và đưa ra đề xuất để cái tiến facebook page, website. Nếu làm tốt công việc thì bên mình có thể trả nhiều hơn ngân sách đưa ra.
-Ưu tiên:
-- Người từng chỉnh sửa, nhập liệu qua trang web của Haravan và facebook.
-- Ở trong TP Hồ Chí Minh vì sẽ cần gặp nhau để trau đổi chi tiết về yêu cầu công việc.
-- Biết html, css.
-- Mình sẽ trao đổi chủ yếu qua facebook. Cần bạn responsive.
-- Cũng dễ chịu vì có rất nhiều sản phẩm không cần chỉnh sửa chi tiết.",2,1,Kỹ năng gõ phía và nhập liệu nhanh,"['HTML/CSS', 'Capcut']",Truyền thông đa phương tiện
+Bên mình sẽ trả theo công việc hoàn thành chứ không nhất thiết theo thời gian nên bạn có thể đề xuất hay nghĩ ra cách làm thuận tiện nhất và đưa ra đề xuất để cái tiến facebook page, website. Nếu làm tốt c&ocirc",2,1
 3026,Nhập liệu hóa đơn/chứng từ ,"Mô tả chi tiết:
 - Chụp hình, nhập hóa đơn vào hệ thống. (tài liệu tiếng anh)
 - Làm trong 1-2 ngày
 - Nhận tài liệu và làm tại nhà
 Vị trí: Nhận tài liệu tại Quận 3 thành phố Hồ Chí Minh.
-Mức lương: 40k-50k/h",2,1,Làm việc nhanh nhẹn,['Tiếng Anh'],Truyền thông đa phương tiện
+Mức lương: 40k-50k/h",2,1
 3027,Cắt path-chỉnh màu sản phẩm,"Sử dụng thành thạo pentool trong clipping path
-Chỉnh màu,đổi màu và làm đều màu các hình",1,2,Từng làm qua công việc tương tự,['Adobe Photoshop'],Truyền thông đa phương tiện
-3028,"Thiết kế Sweater, Hoodie, Jacket, Shoes 3D","Team cần tuyển gấp 02 bạn có kinh nghiệm tối thiểu 1 năm Thiết kế Sweater, Hoodie, Jacket, Shoes 3D...",1,2,"- có mắt gu thẩm mỹ tốt
-- nhanh nhẹn tự chủ trong công việc
-- có khả năng làm mockup và các yêu cầu thiết kế khác
-- Có am hiểu về thời trang là 1 lợi thế
-Đúng hẹn, trách nhiệm trong công việc là điều bắt buộc. Lương thoả thuận. Vui lòng liên hệ, xin cảm ơn!",['Adobe Photoshop'],Truyền thông đa phương tiện
+Chỉnh màu,đổi màu và làm đều màu các hình",1,2
+3028,"Thiết kế Sweater, Hoodie, Jacket, Shoes 3D","Team cần tuyển gấp 02 bạn có kinh nghiệm tối thiểu 1 năm Thiết kế Sweater, Hoodie, Jacket, Shoes 3D...",1,2
 3029,Content Creator cho sản phẩm Chatbot AI,"1. Mô Tả Công Việc
 Chúng tôi đang tìm kiếm một Content Creator sáng tạo và chuyên nghiệp có kinh nghiệm trong sản xuất video quảng cáo để hỗ trợ tạo ra các video hấp dẫn, giúp quảng bá phần mềm quản lý tin nhắn đa kênh. Ứng viên sẽ làm việc cùng đội ngũ marketing để xây dựng các video truyền tải rõ ràng lợi ích và tính năng của phần mềm cho đối tượng khách hàng chính là doanh nghiệp vừa và nhỏ (SME) và các chủ doanh nghiệp trong các ngành như FnB, Spa, Giáo dục, và Du lịch.
 2. Trách Nhiệm Công Việc
 Phát triển ý tưởng sáng tạo, lên kịch bản cho các video quảng cáo.
-Sản xuất các video chất lượng cao (2-5 phút) để giới thiệu tính năng nổi bật như phân tích cảm xúc, quản lý rủi ro, và cải thiện chăm sóc khách hàng.
-Tạo motion graphics, animation và các hiệu ứng hình ảnh bắt mắt để minh họa cách sử dụng phần mềm.
-Chỉnh sửa video phù hợp cho nhiều nền tảng: Facebook, YouTube, TikTok, và Google Ads.
-Tối ưu hóa nội dung video theo thị hiếu của từng đối tượng (quản lý doanh nghiệp, chủ SME).
-Kết hợp nhạc nền, lồng tiếng, phụ đề và hiệu ứng theo đúng nhận diện thương hiệu.
-Phối hợp với đội ngũ marketing để đảm bảo nội dung phù hợp với chiến lược và thông điệp của từng chiến dịch.
-Cải thiện và chỉnh sửa video dựa trên phản hồi và kết quả từ các chiến dịch quảng cáo.
-3. Yêu Cầu Kỹ Năng
-Có tối thiểu 2 năm kinh nghiệm sản xuất video và sáng tạo nội dung, với portfolio thể hiện các video quảng cáo hoặc dự án liên quan đến SaaS.
-Thành thạo các phần mềm chỉnh sửa video (ví dụ: Adobe Premiere, After Effects, Final Cut Pro hoặc DaVinci Resolve).
-Có khả năng kể chuyện tốt và có gu thẩm mỹ về hình ảnh và màu sắc.
-Kinh nghiệm sản xuất các video ngắn (30s–1 phút) cho các nền tảng TikTok, Facebook.
-Hiểu biết cơ bản về phần mềm SaaS hoặc nền tảng tin nhắn đa kênh là một lợi thế.
-Có khả năng làm việc độc lập và hoàn thành đúng hạn.
-Kinh nghiệm với các sản phẩm liên quan đến AI và khả năng giải thích các khái niệm phức tạp một cách dễ hiểu.
-Kỹ năng giao tiếp tốt và khả năng làm việc từ xa với đội ngũ.
-4. Phạm Vi Công Việc & Kết Quả Mong Đợi
-Kết quả đầu ra:
-3-5 video quảng cáo dài (2-5 phút).
-2-3 video ngắn (30s–1 phút) cho quảng cáo trên mạng xã hội.
-Video có tích hợp hiệu ứng motion graphics và text overlay.
-5. Quyền Lợi
-Tùy thuộc vào số lượng video và độ phức tạp
-Có thưởng nếu dự án đạt hiệu quả cao và tạo tác động lớn đến chiến dịch.",2,1,Biết sử mạng xã hội,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
+Sản xuất các video chất lượng cao (2-5 phút) để giới thiệu tính năng nổi bật như phân t&iac",2,1
 3030,"Đưa ra kế hoạch, chiến lược cho công việc Starup bán áo thun local brand","- Đưa ra kế hoạch tổng quát, chiến lược cho công việc
 Có thể chọn làm thêm hỗ trợ hoặc quản lý các đầu việc sau (sẽ được trả thêm theo thương lượng):
 - Hỗ trợ xây dựng thương hiệu và Marketing
 - Tìm kiếm xưởng sản xuất: Tìm một xưởng sản xuất uy tín, có chất lượng sản phẩm tốt và giá cả hợp lý.
-- Quản lý chất lượng: Kiểm soát chặt chẽ chất lượng sản phẩm trước khi đưa ra thị trường.",2,1,Có kinh nghiệm công việc tương tự 2 năm,['Tiếng Anh'],Marketing
-3031,Viết plugin wordpress,"Tôi cần viết mốt plugin cho phép kết nối đồng bộ giữa trang web của tôi và một bên thứ 3, đã có docs api sẵn",1,2,Có  kiến thức về lập trình,['WordPress'],Phần mềm
+- Quản lý chất lượng: Kiểm soát chặt chẽ chất lượng sản phẩm trước khi đưa ra thị trường.",2,1
+3031,Viết plugin wordpress,"Tôi cần viết mốt plugin cho phép kết nối đồng bộ giữa trang web của tôi và một bên thứ 3, đã có docs api sẵn",1,2
 3032,Cần php senior maintain upgrade UI web theo figma,"link dự án
-https://drive.google.com/drive/folders/11Dc6UmgBNpNJbGQpFNCaHa9HmxvdAW0Z?usp=sharing",1,2,có kinh nghiệp php 5 năm,"['PHP', 'Figma']",Phần mềm
+https://drive.google.com/drive/folders/11Dc6UmgBNpNJbGQpFNCaHa9HmxvdAW0Z?usp=sharing",1,2
 3033,Mình cần hỗ trợ tối ưu và chạy Quảng cáo Shopee,"Mình cần hỗ trợ tối ưu và chạy Quảng cáo Shopee
 Vui lòng gửi thông tin chi tiết qua nhé.
-Xin cảm ơn.",1,1,Có kinh nghiệm với công việc liên quan,['Tiếng Anh'],Marketing
-3034,Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social,"Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social. Mình cần lên kế hoạch biên tập nội dung về tin tức thể thao bóng đá , phối hợp với editter để đăng nền nền tảng tiktok fb reel",2,2,Biết biên tâp và có kiến thức về thể thao,['Tiếng Anh'],Marketing
+Xin cảm ơn.",1,1
+3034,Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social,"Mình cần tìm 1 bạn có kinh nghiệm về phát triển nội dung kênh social. Mình cần lên kế hoạch biên tập nội dung về tin tức thể thao bóng đá , phối hợp với editter để đăng nền nền tảng tiktok fb reel",2,2
 3035,Thiết kế website giáo dục,"1. Đánh giá hiện trạn website hiện có.
 2. Thiết kế lại website dựa trên website sẵn có trên nền tảng Workpress.
-3. Quản lý website (nếu được).",1,2,Có kỹ năng phân tích và mắt thẩm mỹ,"['HTML/CSS', 'Javascript', 'Tiếng Anh']",Phần mềm
-3036,Làm video tiktok từ 45 -50s theo nội dung đã cho,Bạn sẽ nhận được một nội dung chủ đề và dựng một video tiktok phù hợp với chủ đề đó. Sau mỗi video bạn sẽ nhận được tiền luôn nếu video đạt yêu cầu. Chúng tôi cần tìm 1-2 bạn để hợp tác lâu dài. Vui lòng gửi cho tôi một vài thiết kế mà bạn tâm đắc. Chúng tôi sẽ check xem nó có phù hợp với định hướng chúng tôi trước khi đưa ra quyết định,2,1,Có kênh tiktok với ít nhất 100 lượt theo dõi,"['Tiếng Anh', 'Capcut']",Truyền thông đa phương tiện
+3. Quản lý website (nếu được).",1,2
+3036,Làm video tiktok từ 45 -50s theo nội dung đã cho,Bạn sẽ nhận được một nội dung chủ đề và dựng một video tiktok phù hợp với chủ đề đó. Sau mỗi video bạn sẽ nhận được tiền luôn nếu video đạt yêu cầu. Chúng tôi cần tìm 1-2 bạn để hợp tác lâu dài. Vui lòng gửi cho tôi một vài thiết kế mà bạn tâm đắc. Chúng tôi sẽ check xem nó có phù hợp với định hướng chúng tôi trước khi đưa ra quyết định,2,1
 3037,"Làm video tiktok, youtube quảng cáo sản phẩm","Công ty Bất Động Sản Hà Đô Phát cần tuyển 02 cộng tác viên media
 - Lĩnh vực : bất động sản
 -Số lượng : 02
 -Lương thoả thuận
-- Nội dung yêu cầu : yêu cầu quay , edit , đề xuất content ( nếu có khả năng ), tư vấn hướng social media cho doanh nghiệp",2,1,"đảm bảo đúng tiến độ 2 ngày 1 clip, làm việc chuyên nghiệp , trung thực, linh hoạt , nhanh nhẹn, sáng tạo,…","['Tiếng Anh', 'Capcut']",Marketing
-3038,TVC Quảng Cáo Nhẫn Cưới/ Cầu Hôn,Cần 1 kịch bản TVC dạng phim ngắn 1 phút quảng cáo về sản phẩm trang sức nhẫn cưới/ nhẫn cầu hôn,1,2,"Ngoại hình ưa nhìn, cao trên 1m8",['Tiếng Hàn'],Marketing
-3039,Trợ lý từ xa,"Tìm trợ lý từ xa, các công việc chủ yếu liên quan đến tổng hợp, thu thập, tóm tắt thông tin, viết báo cáo về các chủ đề môi trường, nông nghiệp, biến đổi khí hậu, phát triển bền vững, ...",2,1,Có kinh nghiệm với lĩnh vực liên quan,['Microsoft Excel'],Viết
-3040,Quản lý blog,"Tìm tài liệu pháp luật, tin tức liên quan cho blog",2,1,Không yêu cầu kinh nghiệm,['Tiếng Anh'],Truyền thông đa phương tiện
-3041,Chụp ảnh sự kiện tại Hà Nội,"Bên mình cần tuyển 1 bạn chụp hình sự kiện trao bằng ngày 01/07/2024 từ 13:30-15:30 tại Hoàn Kiếm, Hà Nội.",1,2,Có kinh nghiệm chụp ảnh,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
-3042,Tìm freelancer chụp ảnh Hội thảo PVN tại TP.Hồ Chí Minh ,chụp sự kiện cho 130 người từ 13h00 đến 17h00 và làm 1 cjip ngắn 5 -10p - chụp gala 18h30 đến 20h,1,2,Có kinh nghiệm chụp ảnh,"['Adobe Photoshop', 'Capcut']",Truyền thông đa phương tiện
-3043,Viết phần mềm đăng ký mua vàng online,"Tôi muốn viết phần mềm đăng ký mua vàng online (sử dụng phương thức http request). Trong đó, có các chức năng như: đăng ký nhiều tài cùng lúc, có chức năng hẹn giờ thực hiện, có thể lặp lại hoạt động đăng ký sau khoảng thời gian nào đó",1,2,Tốt nghiệp cao đẳng trở lên,"['HTML/CSS', 'PHP', 'SQL Server']",Phần mềm
-3044,Tuyển lập trình VueJS + Strapi,"Cần tuyền 1 bạn Frontend Dev mid-level, làm việc freelance + remote, tham gia team startup bên mình.",2,1,Yêu cầu có 1-2 năm kinh nghiệm làm việc với VueJS,"['HTML/CSS', 'Javascript']",Phần mềm
-3045,Tìm bạn nào giỏi về vi phạm chính sách Facebook + phần mềm Facebook giúp mình quản lý group fanpage bằng phần mềm ,# Tuyển Dụng: Chuyên Viên Quảng Cáo Facebook,2,1,"- Có trên 1 năm kinh nghiệm chạy quảng cáo trong ngành cờ bạc (Tài Xỉu, Xổ Số, Bóng Đá).
-- Quen thuộc với nhiều loại quảng cáo và có khả năng chạy đa dạng các loại hình quảng cáo.
-- Kỹ năng giải quyết các vấn đề như tài khoản chết, chi phí cao và các khó khăn khác trong quá trình chạy quảng cáo.
-- Am hiểu cách lách các quy định về quảng cáo vi phạm chính sách ngành cờ bạc.
-## Trách Nhiệm Công Việc
-1. **Điều Phối và Chuẩn Bị Tài Liệu Quảng Cáo**:
-- Chịu trách nhiệm điều phối và chuẩn bị tài liệu quảng cáo.
-- Theo dõi kịp thời hiệu quả của tài liệu quảng cáo.
-- Tối ưu hóa liên tục và thường xuyên tổng kết kết quả chạy quảng cáo.
-2. **Quản Lý Chạy Quảng Cáo Hàng Ngày**:
-- Quản lý và đảm bảo chạy quảng cáo chính xác hàng ngày.
-- Theo dõi hiệu quả và kịp thời tối ưu hóa quảng cáo.
-3. **Phân Tích Hiệu Quả Các Kênh Quảng Cáo**:
-- Thường xuyên tiến hành phân tích tổng thể về hiệu quả của các kênh chạy quảng cáo.
-- Tối ưu hóa kế hoạch quảng cáo dựa trên kết quả phân tích dữ liệu để nâng cao hiệu quả quảng cáo.
----
-Nếu bạn là người đam mê và có kinh nghiệm trong lĩnh vực này, hãy gửi hồ sơ của bạn cho chúng tôi!","['Email Marketing', 'Google Sheets']",Truyền thông đa phương tiện
+- Nội dung yêu cầu : yêu cầu quay , edit , đề xuất content ( nếu có khả năng ), tư vấn hướng social media cho doanh nghiệp",2,1
+3038,TVC Quảng Cáo Nhẫn Cưới/ Cầu Hôn,Cần 1 kịch bản TVC dạng phim ngắn 1 phút quảng cáo về sản phẩm trang sức nhẫn cưới/ nhẫn cầu hôn,1,2
+3039,Trợ lý từ xa,"Tìm trợ lý từ xa, các công việc chủ yếu liên quan đến tổng hợp, thu thập, tóm tắt thông tin, viết báo cáo về các chủ đề môi trường, nông nghiệp, biến đổi khí hậu, phát triển bền vững, ...",2,1
+3040,Quản lý blog,"Tìm tài liệu pháp luật, tin tức liên quan cho blog",2,1
+3041,Chụp ảnh sự kiện tại Hà Nội,"Bên mình cần tuyển 1 bạn chụp hình sự kiện trao bằng ngày 01/07/2024 từ 13:30-15:30 tại Hoàn Kiếm, Hà Nội.",1,2
+3042,Tìm freelancer chụp ảnh Hội thảo PVN tại TP.Hồ Chí Minh ,chụp sự kiện cho 130 người từ 13h00 đến 17h00 và làm 1 cjip ngắn 5 -10p - chụp gala 18h30 đến 20h,1,2
+3043,Viết phần mềm đăng ký mua vàng online,"Tôi muốn viết phần mềm đăng ký mua vàng online (sử dụng phương thức http request). Trong đó, có các chức năng như: đăng ký nhiều tài cùng lúc, có chức năng hẹn giờ thực hiện, có thể lặp lại hoạt động đăng ký sau khoảng thời gian nào đó",1,2
+3044,Tuyển lập trình VueJS + Strapi,"Cần tuyền 1 bạn Frontend Dev mid-level, làm việc freelance + remote, tham gia team startup bên mình.",2,1
+3045,Tìm bạn nào giỏi về vi phạm chính sách Facebook + phần mềm Facebook giúp mình quản lý group fanpage bằng phần mềm ,# Tuyển Dụng: Chuyên Viên Quảng Cáo Facebook,2,1
 3046,"Cần tìm Freelancer thiết kế website, gian hàng trên sàn TMĐT cho lĩnh vực bánh nhập từ Trung Quốc","Chào các bạn Freelancer,
 Mình bán bánh ngọt nhập khẩu trung quốc với nước ép trái cây đóng chai nên cần tìm freelancer thiết kế website với xây dựng cửa hàng trên shoppee với tiktok.
 Công việc cụ thể như sau: Trang chủ, gian hàng, mua hàng, thanh toán … trên website và sàn thương mại điện tử.
-Câc bạn inbox để trao đổi chi tiết hơn ạ",1,2,Có kinh nghiệm làm phần mềm thương mại điện tử,"['HTML/CSS', 'Java', 'Javascript']",Phần mềm
-3047,Tạo video quảng cáo và đăng lên các nền tảng mạng xã hội Thị trường Mỹ ,"Chúng tôi đang tìm kiếm một TikToker, Facebooker, Youtuber tại thị trường Mỹ để tạo và đăng tải video quảng cáo trải nghiệm ứng dụng DrawingEZ. Mục tiêu là thu hút người dùng mới tải ứng dụng. Nếu bạn có tài khoản TikToker, Facebooker, Youtuber với lượng người theo dõi lớn và kỹ năng sáng tạo nội dung, hãy hợp tác với chúng tôi để giới thiệu ứng dụng vẽ độc đáo này!",2,2,"Tài khoản TikToker, Facebooker, Youtuber thuộc thị trường Mỹ với lượng người theo dõi lớn và tương tác tốt.
-Có kinh nghiệm tạo nội dung quảng cáo hoặc trải nghiệm sản phẩm.
-Khả năng sáng tạo video độc đáo, hấp dẫn, và tương tác cao với người xem.
-Quan tâm đến ứng dụng vẽ hoặc các nội dung liên quan đến sáng tạo.
-Trách nhiệm:
-Tạo và đăng video trải nghiệm ứng dụng DrawingEZ, hướng dẫn người dùng tải và sử dụng app.
-Sử dụng chiến lược sáng tạo để thu hút đối tượng người dùng tại Mỹ.
-Phối hợp với đội ngũ của chúng tôi để đảm bảo thông điệp quảng cáo phù hợp với ứng dụng.
-Quyền lợi:
-Cơ hội hợp tác lâu dài với ứng dụng sáng tạo",['Tiếng Anh'],Truyền thông đa phương tiện
+Câc bạn inbox để trao đổi chi tiết hơn ạ",1,2
+3047,Tạo video quảng cáo và đăng lên các nền tảng mạng xã hội Thị trường Mỹ ,"Chúng tôi đang tìm kiếm một TikToker, Facebooker, Youtuber tại thị trường Mỹ để tạo và đăng tải video quảng cáo trải nghiệm ứng dụng DrawingEZ. Mục tiêu là thu hút người dùng mới tải ứng dụng. Nếu bạn có tài khoản TikToker, Facebooker, Youtuber với lượng người theo dõi lớn và kỹ năng sáng tạo nội dung, hãy hợp tác với chúng tôi để giới thiệu ứng dụng vẽ độc đáo này!",2,2
 3048,Làm 01 video giới thiệu công ty ngắn + 01 video giới thiệu dịch vụ,"Cần đối tác xây dựng 2 video:
 - 01 video giới thiệu nhanh công ty (30s)
 + Dựa trên mong muốn và các nội dung doanh nghiệp muốn triển khai để lên idea
@@ -216,37 +132,362 @@ Cơ hội hợp tác lâu dài với ứng dụng sáng tạo",['Tiếng Anh'],T
 - 01 video giới thiệu dịch vụ (60s)
 + Cần trao đổi off để hiểu rõ chức năng của sản phẩm (phần mềm quản lý kho hàng)
 + Dựng animation để khách hàng hiểu được chức năng sản phẩm
-+ Độ phân giải 2K trở lên",1,1,Có kinh nghiệm làm dự án tương tự,"['Adobe Photoshop', 'Tiếng Anh', 'Capcut']",Truyền thông đa phương tiện
-3049,Xử lý khôi phục tài khoản bán hàng thương mại điện tử,Liên hệ đội ngũ chăm sóc khách hàng để xử lý khôi phục tài khoản bản hàng online,1,1,"+ Có máy tính, laptop
-+ Biêt tiếng anh giao tiếp để thực hiện live chat hoặc call support","['Microsoft Excel', 'Google Sheets']",Truyền thông đa phương tiện
-3050,Dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh,Cần tuyển một bạn có kinh nghiệm dịch thuật để dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh.,2,1,"Yêu cầu có bằng đại học chuyên ngành tiếng Anh hoặc chứng chỉ tiếng Anh TOEFL, IELTS, TOEIC, CEFR...",['Tiếng Anh'],Viết
++ Độ phân giải 2K trở lên",1,1
+3049,Xử lý khôi phục tài khoản bán hàng thương mại điện tử,Liên hệ đội ngũ chăm sóc khách hàng để xử lý khôi phục tài khoản bản hàng online,1,1
+3050,Dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh,Cần tuyển một bạn có kinh nghiệm dịch thuật để dịch hợp đồng kinh tế từ tiếng Việt ra tiếng Anh.,2,1
 3051,Chụp ảnh món ăn nhà hàng ,"Chụp hình 35 món ăn, mỗi món 2 góc khác nhau
-Chụp cận cảnh, yêu cầu sắc nét, màu làm món ăn hấp dẫn để làm menu",1,2,Nhiếp ảnh ít nhất 3 năm,['Adobe Photoshop'],Truyền thông đa phương tiện
-3052,LÀM VIỆC CHO WEBSITE LIKE SUB CÁC DỊCH VỤ MẠNG,Liên hệ để biết nội dung,2,1,không yêu cầu kinh nghiệm thu nhập dựa trên lượng sản phẩm bán ra kèm theo hoa hồng,['Microsoft Excel'],Truyền thông đa phương tiện
+Chụp cận cảnh, yêu cầu sắc nét, màu làm món ăn hấp dẫn để làm menu",1,2
+3052,LÀM VIỆC CHO WEBSITE LIKE SUB CÁC DỊCH VỤ MẠNG,Liên hệ để biết nội dung,2,1
 3053,Unity Developer Needed for Game Fixes,"I own a game currently running on Unity version 2017, and I need a Unity game developer to help me with the following tasks:
 - Upgrade the project to Unity version 2020
 - Fix issues with Ads not displaying
 - Fix issues with Facebook login permissions not being granted
-- Fix compatibility issues with external packages integrated into the project",2,1,"The project uses Spine 2D, so a developer with experience in Spine 2D is required.","['C#', 'Adobe Photoshop']",Phần mềm
+- Fix compatibility issues with external packages integrated into the project",2,1
 3054,Code bot Telegram ,"Tôi muốn 1 con bot telegram thông báo cho tôi giao dịch mới từ 1 địa chỉ ví trên solscan.io
 Ví dụ : Ví A chuyển 10 sol tới ví B, ngay lập tức bot telegram thông báo cho tôi địa chỉ ví B đó và cho phép tôi click vào địa chỉ ví để copy luôn
-Và tôi muốn tự sửa được ví A và số tiền chuyển",1,2,Kinh nghiệm 2 năm,"['HTML/CSS', 'C#', 'Javascript']",Phần mềm
+Và tôi muốn tự sửa được ví A và số tiền chuyển",1,2
 3055,"Xây dựng kênh thương hiệu: Facebook fanpage, Insta, Pinterest","- lên kế hoạch xây dựng các kênh: fanpage, instagram, pinterest với đối tượng người xem là khách nước ngoài (cụ thể UK)
 - thực hiện kế hoạch đề ra
-- báo cáo về các thông số kết quả khi xây dựng kênh",2,1,hai năm kinh nghiệm với lĩnh vực tương đương,"['Microsoft Excel', 'Google Sheets']",Marketing
-3056,Nhân Viên Content Facebook thú cưng,Cần 1 bạn viết content đăng Facebook. Số lượng khoảng 15 bài viết/tháng có chỉnh ảnh. Spam các group trên group liên quan đến thú cưng,2,1,Không yêu cầu kinh nghiệm,['Tiếng Anh'],Viết
-3057,Quảng cáo google cho lớp học làm bánh,The flour cần tuyển 1 bạn có kinh nghiệm gg ads hỗ trợ quảng cáo lớp học làm bánh,1,2,một năm kinh nghiệm,"['Tiếng Anh', 'Capcut']",Marketing
-3058,Chạy VPS quốc tế tăng giờ xem youtube,"Hiện tại bên mình đang có dự án quốc tế mảng Youtube , cần chạy 8000 giờ xem trong 10 ngày.",2,1,"- Am hiểu chạy VPS quốc tế (ưu tiên VPS Us, Uk, Trung đông)
-- Am hiểu thuật toán của Youtube, Google
-- Share link, viết bài
-- Seeding tiếng anh (có thể dùng AI để seeding nhưng phải giống người thật)
-Bạn nào thấy thực lực của mình đủ yêu cầu thì nhắn tin trực tiếp cho mình. Cảm ơn!",['Tiếng Anh'],Truyền thông đa phương tiện
-3059,Thiết kế theo văn bản có sẵn,Mình sẽ đưa mẫu cho các bạn chỉ cần làm như mẫu là được,2,1,chính xác và chỉnh chu,['Tiếng Anh'],Viết
+- báo cáo về các thông số kết quả khi xây dựng kênh",2,1
+3056,Nhân Viên Content Facebook thú cưng,Cần 1 bạn viết content đăng Facebook. Số lượng khoảng 15 bài viết/tháng có chỉnh ảnh. Spam các group trên group liên quan đến thú cưng,2,1
+3057,Quảng cáo google cho lớp học làm bánh,The flour cần tuyển 1 bạn có kinh nghiệm gg ads hỗ trợ quảng cáo lớp học làm bánh,1,2
+3058,Chạy VPS quốc tế tăng giờ xem youtube,"Hiện tại bên mình đang có dự án quốc tế mảng Youtube , cần chạy 8000 giờ xem trong 10 ngày.",2,1
+3059,Thiết kế theo văn bản có sẵn,Mình sẽ đưa mẫu cho các bạn chỉ cần làm như mẫu là được,2,1
 3060,Nhân Viên Content Marketing Remote – Admin bóng đá,"• Xây dựng, quản lý nội dung trên Fanpage, Telegram, Tiktok, Youtube của công ty (bao gồm chữ và hình ảnh) theo định hướng có sẵn
 • Tham gia cùng team xây dựng và quản lý các chiến dịch Marketing, đóng góp các ý tưởng nội dung sáng tạo cho chiến dịch Digital Marketing.
-• Ưu tiên ứng viên đã có kinh nghiệm làm admin các page bóng đá lớn",2,1,"• Có kỹ năng viết bài quảng cáo, quản lý cộng đồng.
-• Sử dụng thành thạo vi tính văn phòng.
-• Đã có kinh nghiệm xây dựng hoặc quản trị page, Telegram channel từ 1 năm, với các vị trí tương đương: Content Viral, Content Creator
-• Tiếng Anh đọc hiểu cơ bản
-• Có khả năng tổng hợp thông tin từ nhiều nguồn khác nhau.
-• Có khả năng thiết kế cơ bản là lợi thế","['Tiếng Anh', 'Capcut']",Marketing
+• Ưu tiên ứng viên đã có kinh nghiệm làm admin các page bóng đá lớn",2,1
+4041,Dự án demo 3,Lập trình web,1,1
+4042,App android & ios kiểm kê kho hàng ,"- Chức năng tối thiểu:
++ Kiểm soát số lượng hàng nhập/xuất
++ Báo cáo theo ngày, tuần, tháng, quý, năm
++ Quản lý chi nhánh, nhân viên
++ Chat nội bộ nhóm, cá nhân
++ Giao việc cho nhân viên",2,1
+4043,Cần viết app lại đã có mã nguồn mở,Cần viết app ios và android lại đã có mã nguồn mở. Mọi chi tiết liên hệ. Cảm ơn các bạn đã xem tin.,2,1
+4044,"Tạo nội dung, chạy quảng cáo facebook","Đọc và hiểu các gói dịch vụ của công ty để phục vụ cho việc tạo content, chạy campaign facebook ads, google ads.",2,1
+4045,FREELANCER FACEBOOK ADS,"- Thiết lập, triển khai và quản lý các chiến dịch Quảng cáo trên Facebook để thúc đẩy nhận diện thương hiệu, mức độ tương tác và chuyển đổi.
+- Theo dõi và phân tích hiệu suất chiến dịch, cung cấp báo cáo chi tiết và thông tin chuyên sâu để tối ưu hóa và cải thiện kết quả.
+- Phân bổ và quản lý ngân sách quảng cáo hiệu quả để đảm bảo ROI tốt nhất cho mỗi chiến dịch.
+- Làm việc chặt chẽ với nhóm sáng tạo để phát triển các quảng cáo hấp dẫn và nội dung thu hút được đối tượng mục tiêu
+- Sử dụng các công cụ và nền tảng phân tích để theo dõi số liệu hiệu suất và đưa ra quyết định dựa trên dữ liệu
+- Luôn nắm bắt các xu hướng mới nhất, các phương pháp hay nhất va",1,2
+4046,Copy mẫu Poster thành file,"Copy 1 mẫu poster từ file JPG sang PTS hoặc AI file.
+Hình có sẵn, chỉ cần design sao cho giống y hệt là được",1,2
+4047,POD DESIGNER,"- Thiết kế dạng new design, re-design (ko clone) các sản phẩm POD như: canvas, blanket, tumbler, ornament, stone, flag, ceramic,... theo ý tưởng có sẵn.
+- Sửa mẫu theo yêu cầu của Idea để tạo thành sản phẩm hoàn chỉnh.
+- Làm việc thông qua phần mềm Larksuit.",2,1
+4048,"Freelancer quay phim, dựng phim cho video 3ph","Mình cần quay phim phóng sự công ty và dựng, chất lượng 4K, thời lượng 3ph bao gồm sources clip đã mua sẵn. Scope:
+1. Quay phim theo kịch bản có sẵn. Có thể trao đổi kịch bản qua tin nhắn với mình. Quay tại Q. Bình Thạnh, quay khoảng 3 tiếng
+2. Dựng phim, làm animation, transition theo đúng kịch bản
+3. Biết team lồng tiếng, kết hợp lồng tiếng và làm sub
+4. Có kinh nghiệm làm video cho công ty. Thông minh tháo vát, flexible. Dùng after effect, premier, có thể thiết kế những element bổ sung cho clip mình dựng",1,2
+4049,Dựng Video Bằng Capcut,"- Nhận kịch bản, dựng clip theo order (clip dưới 1 phút).
+- Dựng từ 50 - 100 video/tháng (tùy tháng).",1,2
+4050,Content marketing,"content trên đa nền tảng:
++ Blog cho Website
++ Bài post fanpage
++ Kịch bản video ngắn
++ Thư ngỏ dạng như 1 bài bán hàng xuất sắc",1,2
+4051,Content writer cho cộng đồng người chơi POKER,"- Làm việc với team Planning để đưa ra ý tưởng và triển khai ý tưởng cho các chiến dịch dựa trên kế hoạch của khách hàng (Insights, key message, tagline, content pillar, article outline, demo post, community topic…);
+- Chịu trách nhiệm lập kế hoạch nội dung trên đa kênh để xây dựng đề xuất phù hợp với yêu cầu của khách hàng.
+60% EXECUTION:
+- Phụ trách thực hiện toàn bộ nội dung cho các dự án bao gồm branding, promotion... Sáng tạo và sản xuất nội dung mạng xã hội cho tất cả các kênh như: Facebook, Tiktok, Landing Page
+- Làm việc với team để điều chỉnh nội dung và cấu trúc bài viết theo feedback của khách hàng.
+- Làm việc tốt với team Thiết Kế đảm bảo hình ảnh sáng tạo phù hợp với nội dung.
+- Phân tích a",2,1
+4052,Chụp Ảnh Áo Dài Tại Hoàng Thành,"Hà Nội
+- cần tìm từ 1
+- 2 nháy chụp ảnh áo dài nhân dịp 8/3 tại Hoàng Thành, có chỉnh sửa ảnh sau khi chụp. Bạn nào nhận được thì liên hệ nhé ạ.",1,2
+4053,Quay phim,"Tìm 01 người quay phim có sẵn thiết bị (camera, gimbal, chân máy)
+- Thời gian: 1 ngày (trong tháng 1, sắp xếp theo lịch của freelancer)
+- Địa điểm: Tây Ninh (có xe đưa đón tại Phú Nhuận - HCM)
+- Nội dung: quay nhà xưởng trong khu công nghiệp",1,2
+4054,Tìm một bài viết bài SEO tầm 1000 - 1500 từ - tháng khoảng 50 bài ,"- Mình cần tìm một bài viết bài SEO và cung cấp cho mình giá tốt nhé
+- Trung bình một tháng khoảng 50 bài SEO (Keyword plan bên mình sẽ gửi, mình chỉ viết onpage từ 1000-1500 từ, ảnh tải trên mạng hoặc có khách bên mình cung cấp source thì các ban chỉ cần lấy ảnh đó gắn logo vào và tải lên bài thôi).
+- Với số lượng tối thiểu 50 bài/tháng nên mình cần bạn cung cấp giá tốt",2,1
+4055,Viết kịch bản video thể hiện sứ mệnh của công ty,"Bên mình đang cần viết kịch bản thể hiện sứ mệnh của công ty nhân kỉ niệm 10 năm, truyền cảm hứng, lan tỏa tới khách hàng.
+Thì bên mình muốn thuê kịch bản trước, bạn báo giá giúp mình nhé, vid dưới 2 phút.",1,2
+4056,Thiết kế video nền cho sản phẩm xổ số truyền thống & hiện đại,"Thiết kế theo phong cách người dùng trực quan, trải nghiệm theo thời gian thực, sáng/trưa/tối.
+Hướng hiện đại, tinh tế, chuyên nghiệp, theo mô tả riêng cho ngành xổ số & chung cho ngành tài chính
+Hướng người chơi /mua vé số theo dạng tài lộc, cầu may, số đỏ.
+Video dạng nền chìm, mờ, lồng trên web, style , color theo định nghĩa mô tả.
+Dự kiến có 01 video chính cho nền site chủ, 2-3 video phụ cho các nền site con.
+Thời gian không gấp
+Chi phí vừa phải (gia công lại cho 3rd)",1,2
+4057,"Cần làm video về phong thủy, quay phim người thật review sản phẩm","video tựa như thế này
+https://drive.google.com/file/d/1pQMrkHumXMjtBwMAgJ84VjhZtWyMAxru/view
+Có 1 người giới thiệu và review như video",1,2
+4058,Làm video amination động vật ( con bò ) trên Lottiefiles,"Cần làm video amination động vật ( con bò ) trên Lottiefiles
+Video Mô tả các chuyển động của bò khi được cho ăn, uống, tắm
+Xuất video ra định dạng json tương thích Lottiefiles",1,2
+4059,"Thiết kế logo, nhận diện thương hiệu cho 1 doanh nghiệp software development ","Thiết kế logo, bộ nhận diện thương hiệu cho 1 doanh nghiệp software development. Nếu có thể thì cả website",1,2
+4060,Chạy Quảng cáo Facebook cho tour trải nghiệm,"1. Nghiên cứu hiện tại fanpage và các sản phẩm định hướng chạy quảng cáo.2
+2. Lập phương án chạy quảng cáo phù hợp và đúng đối tượng khách hàng yêu cầu.
+3. Đề xuất cài đặt mẫu chạy các các gói sản phẩm và định hướng dịch vụ khác nhau.",1,2
+4061,Tuyển người hỗ trợ set up email marketting - lĩnh vực du lịch Việt Nam,"Mình cần tìm 1 bạn biết về design, UX,UI và Mailchimp để thiết kế các email campaign cho mảng B2B.
+Công việc:
+- Thiết kế template cho các email trong chiến dịch
+- Design hình ảnh trang trí cho email
+Thời gian làm việc linh hoạt
+Mức lương: thỏa thuận.",2,1
+4062,"Làm video dự thi ""An toàn giao thông""","Cần làm 1 đoạn video ngắn tối đa 5 phút về chủ đề an toàn giao thông.
+Cần ý tưởng mới lạ, video hoàn chỉnh, sau đó sẽ có học sinh lồng tiếng.",1,2
+4063,Vd ngắn giới thiệu về núi tượng homestay,"làm vd khoảng 4 5p giới thiệu về núi tượng homestay, đã có vd quay sẵn chỉ cần dựng và chỉnh sửa và ghép void vào",1,2
+4064,Tiktok filter,"Tôi cần xây dựng 1 ứng dụng quay video như tiktok, chỉ phần quay video",1,2
+4065,Cần tìm người làm App kiểu Chùa Online,"Bạn có thể cung cấp dịch vụ này? Thêm vào hồ sơ làm việc.
+Xin chào mọi người.
+Mình đang cần tìm người Viết cho mình ứng dụng Chùa Online và nó cần chạy trên cả hai nền tảng Android và IOS.
+Mình có thể tham khảo cách làm của ứng dụng sau:
+https://play.google.com/store/apps/details?id=com.mandir
+Ý tưởng là nơi dành cho Phật tử kiểu daily praying app trao đổi kinh nghiệm học phật cúng dường etc.
+Chi tiết bàn sau.",1,2
+4066,Tuyển Team sản xuất video cho kênh TikTok của nhãn hàng thời trang đường phố Việt,"Nhãn hàng thời trang chuyên bán hàng tại Shopee, TikTok, có văn phòng tại TPHCM. Chúng tôi cần team sản xuất nội dung dạng video ngắn cho kênh TikTok nhãn hàng mục tiêu để khách hàng hiểu về sản phẩm và tăng khả năng tương tác mua hàng của khách hàng.
+Xây dựng kế hoạch nội dung:
+_ Lập kế hoạch chi tiết cho nội dung trên kênh TikTok của nhãn hàng.
+_ Xác định các chủ đề, xu hướng, và thông điệp cần truyền tải qua video.
+_ Đề xuất lịch phát sóng, thời gian tối ưu để tương tác với khán giả.
+Sản xuất nội dung:
+_ Tạo video ngắn trên nền nhạc, sử dụng hiệu ứng và tính năng của TikTok.
+_ Sử dụng trang phục thời trang đường phố của nhãn hàng để tạo nên những video hấp dẫn.
+_ Chú trọng đ",2,1
+4067,Tạo nhân vật hoạt hình cho công ty dọn dẹp vệ sinh,"Giới thiệu chung
+Công ty: Dust Killer , dọn dẹp nhà cửa, dọn dẹp văn phòng, chung cư
+về nhân vật: nhân vật dễ thương, lấy ý tưởng con bò. màu chủ đạo là màu vàng
+video theo dạng này: https://www.youtube.com/@MoominOfficial
+Khai thác khách hàng qua câu truyện hoạt hình
+Mô tả công việc:
+Tạo nhân vật hoạt hình cho công ty dọn dẹp vệ sinh
+Sử dụng công nghệ AI để viết kịch bản sáng tạo cho video TikTok.
+Sản xuất và chỉnh sửa 30 videos TikTok
+Xây dựng câu chuyện giả tưởng hoàn toàn. Ví dụ: Bối cảnh là 1 thành phố yên bình nhưng bỗng 1 ngày bị người ngoài hành tinh tấn công (quân đội vi khuẩn). Dust Killer từ 1 cậu bé bình thường (nhân vật con bò) đã đi",1,2
+4068,Thuyết Minh Truyện Tranh ,"Thuyết minh Manga
+Trình bày manga và gắn thuyết minh cho từng hình,
+Đóng gói và gửi lại cho bên mình theo yêu cầu",2,1
+4069,Dịch và chỉnh sửa nội dung canva anh-việt,Dịch nội dung flie canva từ tiếng anh - việt .,2,1
+4070,Viết đề tài sáng kiến kinh nghiệm lớp 4 đối tượng học sinh khuyết tật trí tuệ,"Viết ý tưởng mới, biện pháp mới trong giảng dạy học sinh lớp 4 nhưng đối tượng học sinh khuyết tật, cụ thể là học sinh chậm phát triển trí tuệ, tự kỷ, down,….",1,2
+4071,"Cộng tác viên Photophone quay chụp view phòng studio, quán caffee","Mình cần tìm một bạn freelance photophone có thể chụp hình view phòng/ thời trang cho studio
+1. ưu tiên có biết set-up góc chụp, kinh nghiệm chụp view phòng studio, quán caffee, flatlay sp, mẫu thời trang
+2. Thời gian linh động không bó buộc mỗi ca chụp chỉ 1-2 tiếng
+3. mức lương thỏa thuận theo năng lực
+4. Địa điểm stu tại Yên xá- Thanh trì (gần hồ văn quán)
+5. Yêu cầu có máy iphone từ 13pr trở lên (hoặc máy cơ)",2,1
+4072,"Mình cần freelancer đã có kinh nghiệm phát triển kênh Threads cho brand, nội dung chào giá dự án gồm:  - Thông tin kênh đã/ đang triển khai và kết quả  - Ưu tiên có kinh nghiệm research báo cáo nghiên cứu tệp khách hàng Threads và dạng nội dung hiệu quả có khả năng viral, yếu tố nào khiến nó tiếp cận đối tượng khách hàng tiềm năng hiệu quả,...","phát triển kênh Threads cho brand, nội dung chào giá dự án gồm:
+- Thông tin kênh đã/ đang triển khai và kết quả
+- Ưu tiên có kinh nghiệm research báo cáo nghiên cứu tệp khách hàng Threads và dạng nội dung hiệu quả có khả năng viral, yếu tố nào khiến nó tiếp cận đối tượng khách hàng tiềm năng hiệu quả,...",2,1
+4073,Tìm người Viết kịch bản cho kênh YouTube,"Tìm người Viết kịch bản cho kênh YouTube
+Tôi đang tìm kiếm 1 bạn viết kịch bản cho kênh YouTube đáp ứng các tiêu chí sau :
+- Ngôn ngữ: Tiếng Anh
+- 1500 từ cho mỗi kịch bản
+- Giá 250.000đ cho mỗi kịch bản
+- 7 kịch bản mỗi tuần
+- Viết theo ý tưởng bạn nhận được
+- Không bị trùng lặp nội dung
+- Chủ đề: sức khỏe
+Xin cám ơn",2,1
+4074,Viết bài chuẩn SEO cho website,"Cần 1 bạn có kinh nghiệm cơ bản viết bài chuẩn SEO cho website. Có thể dùng AI hỗ trợ, tuy nhiên phải đảm bảo tiêu chí SEO, và đúng search intent. Cái này mình có thể training thêm cho bạn.
+Viết theo kế hoạch keywords mình đưa ra.
+Viết khoảng 30-50 bài/tháng. Làm tốt thì hợp tác lâu dài.",2,1
+4075,Làm clip ngắn review sản phẩm ,"Mỗi sản phẩm cần 1 clip revie giới thiệu về sản phẩm, dùng để đăng lên tiktok, youtube và chạy quảng cáo",1,2
+4076,Tìm bạn nữ quay video giới thiệu sản phẩm,"Mình tìm bạn Nữ quay video giới thiệu tính năng sản phẩm, không cần nói chỉ cần ngồi thao tác tay sản phẩm ( đồ gia dụng, điện tử).",1,2
+4077,Mình cần làm các video ngắn giới thiệu sản phẩm không ,"Mình cần làm các video ngắn giới thiệu sản phẩm Tạo website hoặc tuyển dụng không cần lộ mặt review tính năng đăng kênh tiktok, toutube bạn nào làm được tính theo số lượng liên hệ mình",1,2
+4078,"Tuyển Freelancer Thiết kế Giao diện Web, Brochure, Landing Page, Tài liệu Marketing (Dự án)","Tuyển Freelancer Thiết kế Giao diện Web, Brochure, Landing Page, Tài liệu Marketing (Dự án)
+Mô tả công việc:
+Thiết kế UI cho website và landing page.
+Thiết kế brochure, tài liệu marketing và các ấn phẩm quảng cáo.",2,1
+4079,"Làm clip ngắn cho fanpage của mình, trả income theo số lượng video","Mình cần 1 editor cho fanpage của mình, video ngắn khoảng 5p, được cắt từ những buổi live stream, edit tóm tắt, càng hài hước càng tốt.",1,2
+4080,Phần mềm quản lý cơ sở dữ liệu hồ sơ nhân sự và quy trình nội bộ,"(hướng đến việc đồng bộ thông tin/cơ sở dữ liệu trên nền tảng web, lưu trữ lâu dài và trích xuất/tra cứu thuận lợi)
+1. Quản lý cơ sở dữ liệu
+- Tải dữ liệu lên website
+- Nhập/xuất dữ liệu theo các trường thông tin (có thể tuỳ chỉnh)
+- Tìm kiếm thông tin theo điều kiện của nhiều trường thông tin./Kết quả tìm kiếm có thể xuất theo các file dữ liệu gốc (tổng hợp nhiều kết quả hoặc riêng rẽ từng kết quả)
+- Gửi các dữ liệu kết quả tìm kiếm thông qua email.
+- ...(trao đổi trực tiếp)...
+2. Quy trình nôi bộ
+- Phân loại nhân sự theo từng nhóm đối tượng, từng nhóm đối tượng sẽ áp dựng quy trình theo dõi riêng
+- Tìm kiếm được thông tin nhân sự theo trường thông tin, trích xuất được toàn bộ thông tin/dữ",2,1
+4081,Mình cần 1 bạn làm phần mềm tool xoay proxy cho window,"- Có giao diện sẵn làm theo yêu cầu
+- Import apikey vào và xoay ip, thiết lập tự động xoay, xóa, chỉnh sửa
+- Quan trọng phải tại được con proxy local trên máy tính để khi xoay ip mới nó sẽ không bị thay đổi",1,2
+4082,Node.js Developer,"Chúng tôi đang tìm kiếm một Node.js Developer trẻ, năng động để gia nhập đội ngũ phát triển của mình. Đây là cơ hội lý tưởng cho các bạn sinh viên mới ra trường, yêu thích lập trình và sẵn sàng đối mặt với những thử thách mới!
+Mô tả công việc:
+• Tham gia phát triển các ứng dụng web bằng Node.js.
+• Tìm hiểu, áp dụng các công nghệ mới và cải tiến liên tục trong công việc.
+• Hợp tác với các thành viên khác để hoàn thành dự án đúng tiến độ.",2,1
+4083,Cần làm Tool Crawl emails từ các nền tảng mạng xã hội,"Crawl emails:
+- Số lượng: 1 triệu email/ tháng trở lên
+- Nền tảng: đa dạng
+- Quốc gia: US
+- Keywords: Nike, Adidas, Under Armour, Spanx, Athleta,...
+- Có lọc email",1,2
+4084,App mobile đọc dữ liệu chip CCCD,"App mobile đọc dữ liệu chip CCCD. Sau khi đọc được dữ liệu CCCD thì call API để gửi thông tin về server chỉ định.
+App sử dụng được cả trên iOS và android",1,2
+4085,Ứng dụng di động hỗ trợ xác thực sinh trắc học,"Mình cần tạo một ứng dụng android với các tính năng sau
+1. Cho phép đóng gói dữ liệu sinh trắc khuôn mặt và lưu trên app
+2. Khi ứng dụng bất kỳ yêu cầu thực hiện xác thực sinh trắc khuôn mặt thì thực hiện cung cấp gói dữ liệu đã đóng gói ở mục 1 để pass xác thực sinh trắc.",2,1
+4086,Tìm freelancer biết React Native làm việc theo giờ,"Bên mình cần tuyển freelancer làm việc theo giờ. Biết React Native, bên mìnhgiao task bạn báo số giờ nếu OK thì làm luôn",2,1
+4087,Xuất bản ứng dụng lên Google Play để tài khoản không bị đóng ,Tài khoản Google Play bên mình đang bị cảnh báo do lâu không update phần mềm. Nhờ bạn upload giúp 1 app bất kỳ nào đó lên Google Play bằng tài khoản mình để tài khoản duy trì hoạt động.,1,2
+4088,Làm app ios và android bằng react native hoặc flutter,Cần làm app ios và android sử dụng React Native hoặc Flutter.,2,2
+4089,Làm app ios và android bằng react native hoặc flutter,Cần làm app ios và android sử dụng React Native hoặc Flutter.,2,2
+4090,Làm App tương tác chạy bộ tính điểm tích hợp tiền crypto blockchain ,Làm App tương tác chạy bộ kiếm điểm tích hợp tiền crypto blockchain,1,2
+4091,Làm app tương tác chạy bộ,"kinh nghiệm về app mobil, tải app qua link xuất hiện trong điện thoại trước khi đăng ký trên app store hoặc CH play",1,2
+4092,Lập trình giao diện mobile cho trang Web + Responsive,"1. Mình đang có một trang web về khách sạn: (museinvietnam.com)
+- Hiện tại trang web đã hoàn thiện xong, và bên mình đang muốn code responsive cho tất cả các loại device, quan trọng nhất là mobile.
+- Design Figma cho mobile sẽ được chuẩn bị sẵn, chỉ việc vào code và đảm bảo responsive cho mọi loại màn hình.
+- Các công nghệ cần biết: Nextjs, Reactjs, Tailwind css, ant design",2,1
+4093,Hỗ trợ chỉnh sửa website ,Mình đã có công cụ clone web. Muốn tìm bạn hỗ trợ chỉnh sửa một chút để thành web hoàn chỉnh,1,2
+4094,Bảo trì trang web fansi.com.vn,"Bảo trì trang web fansi.com.vn , thay đổi nguồn dữ liệu đầu vào như hosting...., chỉnh sửa một số thông tin đăng lên theo yêu cầu.",1,2
+4095,Thiết kế giao diện cho ebook,Tôi cần đặt hàng một template HTML giao diện cho ebook có thể tương thích với các thiết bị di động. Yêu cầu là không bị vỡ bảng khi hiển thị ở các màn hình có kích thước khác nhau,1,2
+4096,Chức năng vẽ hình 2D và 3D trên web,Cần tìm developer code php và javascript làm chức năng vẽ hình 2D và 3D trên web tương tự như video demo,1,2
+4097,Thiết kế trang web dữ liệu chứng khoán,Thiết kế trang web dữ liệu về chứng khoán như Fstock.vn ; Gstock.vn ; Simplize.vn ; finchat.io/dashboard ; ...,2,1
+4098,Làm các website với ngôn ngữ nextjs,Làm các website với ngôn ngữ nextjs làm lâu dài làm online,2,1
+4099,Thêm menu trong web wordpress ,"thêm trang menu , trang con trong web wordpress. web đã có sẵn rồi. mình chỉ cần thêm vài thứ . không cần nhiều",2,1
+4100,Xây dựng website cho Lab nghiên cứu ,"Xin chào các bạn, website mình đã có tiền miền, hosting wordpress. Theme đã có sẵn, mình muốn chuyển theme đó thành website với các thông tin của bên mình.",1,2
+4101,Cần tối ưu về mặt kỹ thuật cho website về vận tải liên tỉnh,"Hiện tôi đang có website, code thủ công không sử dụng wordpress, đang cần thuê dịch vụ tư vấn tối ưu về mặt cấu trúc cũng như các chỉ số liên quan.",2,1
+4102,Tư vấn & triển khai SEO cho website mới về tuyển dụng,Mình cần tuyển người lập kế hoạch tư vấn để build traffic cho một website về tuyển dụng mới hoàn toàn. Hiện team mình không có ai chuyên môn về mảng này. Plan kế hoạch cho 3 - 6 tháng. Nếu được sẽ thương lượng tiếp để hợp tác viết bài và làm việc lâu dài,2,1
+4103,Tuyển cộng tác viên SEO website Đông trùng hạ thảo Tây Tạng,"Đông trùng hạ thảo Thiên Sơn là một trong những đơn vị hàng đầu chuyên cung cấp các sản phẩm Đông trùng hạ thảo Tây Tạng tại Việt Nam. Với mong muốn mang sản phẩm chất lượng đến với nhiều người hơn, Thiên Sơn Store đang tuyển cộng tác viên SEO website Đông trùng hạ thảo Tây Tạng trên toàn quốc.
+Mô tả công việc
+Thực hiện các công việc SEO website Đông trùng hạ thảo Tây Tạng theo hướng dẫn của công ty
+Nghiên cứu từ khóa, phân tích đối thủ cạnh tranh, lập kế hoạch SEO
+Tối ưu hóa nội dung, backlink, cấu trúc website
+Theo dõi và báo cáo kết quả SEO
+Làm việc với các hiện đang ở khu vực HCM (ưu tiên thành phố thủ đức) để có thể lâu lâu tiện trao đổi công việc.",2,1
+4104,Chuyển đổi file quản lý dữ liệu bán hàng/ kho bãi bằng formula trên GG Spreadsheet thành GG AppScript ,"Tôi đã tự thiết kế file quản lý tổng hợp kinh doanh/ quản lý kho hàng bằng cách link/ truy suất dữ liệu từ nhiều file/ sheet khác nhau trên GG Sheet (có sẵn file demo, đang vận hành chạy bằng công thức và truy suất dữ liệu)
+Cần người chuyển đổi từ dạng công thức sang coding/ mở rộng file API thông qua GG AppScript nhằm tăng tốc độ xử lý/ truy xuất và phân quyền ngừoi dùng.",1,2
+4105,Cần phần mềm đăng ký telegram xuất file tdata và session trên phone samsung s7,cần dev đã làm qua telegram trên phone và hiểu rõ cách xuất file ạc tdata và session,1,1
+4106,"Cần liên kết, đồng bộ dữ liệu giữa phần mềm bán hàng và phần mềm quản lý khách hàng.","Mình cần liên kết, đồng bộ dữ liệu giữa phần mềm quản lý bán hàng và phần mềm quản lý khách hàng.",1,2
+4107,Viết Code VBA - File Excel Productivity Tracker và Báo cáo Project Issue Tracker,"Mình đã có sẵn ý tưởng, nguồn tham khảo, mình cần viết lại, chi phí thương lượng.",1,2
+4108,Crawl Data từ 2 Webs cố định,"Mình cần Crawl hết data từ 2 sites có sẵn.
+Bạn có thể dùng bất kì ngôn ngữ nào bạn dev quen.
+Mình cần xử lí gấp.
+Bạn nào xử lí gấp được thì chào giá mình luôn nhé.
+Inbox để mình gửi 2 sites chi tiết.",2,1
+4109,Cần tìm đối tác làm Loyalty App cho lĩnh vực F&B,"Bên mình cần tìm đối tác build một Loyalty App (Android + IOS) cho khách hàng kèm 1 website (responsive) cho quản trị.
+Lĩnh vực: F&B.
+Các app tham khảo: Buzza Pizza, Quà tặng VIP, One Life.",2,1
+4110,Sửa lỗi web bán hàng,"sửa lỗi web bán hàng , bổ sung thêm tính năng cho web theo yêu cầu",1,2
+4111,Lập chiến lược Inbound Marketing - B2B xuất khẩu,"Chào cả nhà,
+Mình là cty nhỏ đang phát triển, hiện làm 3 mảng (theo thứ tự ưu tiên xuất khẩu > cho thuê vp > bán lẻ; profile đính kèm) M đang tìm người hỗ trợ xây dựng phòng mkt inhouse
+- Lên chiến lược marketing cho mảng xuất khẩu: công việc, ngân sách, thời điểm, chỉ tiêu đo lường, nhân sự - lập chỉ tiêu đánh giá hiệu quả cv, báo cáo, giám sát triển khai định kỳ.
+- Định hướng làm inbound là chính, outbound hỗ trợ. Cần tư vấn sd công cụ automation.
+- Ưu tiên các anh/chị đã làm qua ngành b2b xuất khẩu; cho m biết hiệu quả các dự án đã làm nhé.
+Nếu phù hợp sẽ hợp tác lâu dài để định kỳ đánh giá việc thực thi kế hoạch, training nhân sự, l&agrave",1,2
+4112,Tuyển Leader Marketing ,"Quản lý MKT team chạy các chiến dịch cho các nền tảng FB, Tiktok, Zalo OA & các sàn",2,1
+4113,CONTENT MARKETING,"Mình cần 1 bạn làm Content Marketing ( Part - time) chuyên về branding & awareness ( Cho công ty công nghệ về luật pháp)
++ làm content fanpage, facebook group
++ nội dung ads ( facebook, youtube, linkedin..)
++ email marketing",1,2
+4114,Giúp tư vấn và phối hợp lập kế hoạch triển khai marketing,"Em xin chào anh/chị
+Em nay 17t và có mong ước được mở riêng cho mình 1 quán trà sữa nhỏ nhỏ
+Hiện nay em cũng đã có được 1 cửa hàng bán mang đi nhưng vẫn chưa có chút kinh nghiệm nào để vận hành và quản lý cũng như vấn đề về marketing . Nay em lên đây để tìm 1 người thầy có kính nghiệm dạy em về maketing và cũng là một người bạn trợ giúp em thực hiện hoá mơ ước đó..
+Rất mong được giúp đỡ...",2,1
+4115,Cần Tuyển Digital Marketing lĩnh vực Giáo dục,"• Biết làm landing page
+• Sử dụng thành thạo các công cụ marketing
+• Biết thiết kế design / video / content marketing
+• Biết sử dụng Chat GP và AI để tạo ra video
+• Biết xây dựng kịch bản, ý tưởng marketing
+• Am hiểu marketing các kênh : Facebook, Tiktok, Youtube
+• Tư duy sáng tạo và khả năng viết nội dung quảng cáo, bắt trend,video tốt
+Quyền lợi :
+• Lương từ : 5.000.000vnđ - 10.000.000vnđ/tháng
+• Làm việc online
+• Đặc biệt: Có cơ hội Được hưởng lợi nhuận từ dự án",2,1
+4116,Trọn gói: lên kế hoạch và hoạt động Marketing cho start-up ,"Báo giá yêu cầu:
+1. Thiết kế full bộ: logo + bộ định dạng thương hiệu và merchandising.
+2. Kế hoạch launching
+3. Kế hoạch marketing 2 năm
+4. Lộ trình Mkt offline và SEO.
+5. Chụp ảnh, viết bài theo kế hoạch mkt.",1,2
+4117,Tuyển thực tập sinh Marketing (Công ty có đào tạo),"CÔNG VIỆC:
+Xây dựng, theo dõi, chăm sóc vận hành shop, cập nhật sản phẩm, SEO từ khoá, content trên sàn thương mại điện tử Shopee, Lazada, Tiktok... Thực hiện các công cụ Marketing miễn phí và có phí, tham gia các chương trình khuyến mãi, sale trên sàn, chạy quảng cáo để tìm kiếm khách hàng, phát triển shop. Theo dõi, cập nhật hiệu quả của chiến dịch quảng cáo. Xây dựng, group, page... bán hàng và chạy ads các nền tảng Facebook, Zalo, Instagram... Được hướng dẫn cụ thể để hoàn thành tốt công việc...
+Ứng viên để lại thông tin sẽ được trao đổi chi tiết",2,1
+4118,Xây dựng và chạy quảng cáo kênh Instagram bán hàng đồ công nghệ,"Bên mình cần xây dựng, quản lý và chạy quảng cáo cho kênh instagram
+Mặt hàng bên mình là các sản phẩm công nghệ của Apple, samsung, dell .....",1,2
+4119,TUYỂN FREELANCER LÊN KẾ HOẠCH VÀ THỰC HIỆN CHIẾN DỊCH MARKETING,"Mình đang tìm kiếm freelancer để lên kế hoạch và thực hiện chiến dịch marketing để quảng bá hình ảnh, sản phẩm, dịch vụ, thương hiệu, tầm nhìn & sứ mệnh của công ty
+A) Nội dung công việc:
+- Phân tích và đề xuất chiến lược marketing phù hợp với sản phẩm và thị trường.
+- Lên kế hoạch chi tiết cho chiến dịch marketing bao gồm: Thời gian, ngân sách, các hoạt động cụ thể.
+- Triển khai thực hiện chiến dịch marketing theo kế hoạch.
+- Báo cáo và đánh giá hiệu quả chiến dịch.
+- Ngân sách dự kiến: 25 triệu đồng
+B) Thời gian cho một planning: 1-3 tháng
+C) Thưởng thêm: Nếu vượt chỉ tiêu doanh số đề ra, sẽ có thưởng thêm tỷ lệ % doanh số vượt chỉ tiêu.",1,2
+4120,Nhân viên Content Marketing Part-time,"Mô tả công việc
+- Xây dựng, quản lý nội dung (bao gồm viết nội dung, trình bày nội dung, ý tưởng về hình ảnh) trên Fanpage, Website.
+- Phối hợp để lên ý tưởng, kế hoạch nội dung, bài đăng chi tiết cho social media (Facebook, Instagram, Tiktok…)
+- Chịu trách nhiệm sản xuất nội dung truyền thông (Digital/Offline,…) như idea video / hình ảnh,…
+- Triển khai các hoạt động marketing khác theo sự phân công của quản lý
+- Tự sắp xếp, lên kế hoạch làm việc và báo cáo tiến độ với quản lý",2,1
+4121,Cần tìm 1 bạn digital marketing freelance cho phòng hồi phục cơ bắp,"Kajo Rehab - một team nhỏ, chuyên hỗ trợ phục hồi cơ bắp, xương khớp và thần kinh cho người chơi thể thao và vận động viên vừa mới được thành lập, tại Phan Xích Long Quận Phú Nhuận HCM.
+Về Branding & Marketing: Bọn mình đã đầu tư 1 bộ Brand Guidelines khá ‘unique’, tự tin khác biệt hoàn toàn những đối thủ khác trong lĩnh vực này, đây là 1 sự hỗ trợ rất lớn cho bất kì bạn Marketing nào tham gia.
+Về product: Những phương pháp bên mình áp dụng để xử lý chấn thương, kích thích phục hồi là cực kì mới ở Việt Nam, rất ít bên làm. Nếu có cơ hội làm việc cùng nhau và bạn ở HCM, mình có thể show nhiều insights hơn về khoa học đằng sau và điểm mạnh & yếu của đối thủ.
+Hiện tại quy mô bên mình vẫn c&",1,2
+4122,Phụ trách nội dung trên các nền tảng social,"Phụ trách quản lý content trên Facebook/Insta bao gồm các nội dung: Sales/Brand/Products/Trending (45-60 post/tháng).
+Kịch bản Tiktok 15-20/tháng
+Các post sẽ chủ yếu dùng hình ảnh team media cung cấp. Nội dung sẽ ngắn gọn (3-5 câu)",2,1
+4123,"Tư vấn, lập kế hoạch & triển khai marketing online cho sản phẩm Tranh trang trí","Tư vấn, lập kế hoạch & triển khai marketing online cho sản phẩm Tranh trang trí.
+Mình là chủ xưởng sản xuất tranh, sản phẩm đang được bán tốt trên các sàn thương mại điện tử.
+Mình muốn hợp tác với một bạn có kinh nghiệm về làm marketing online để triển khai marketing trên các kênh khác như: mạng xã hội, website, email,...",1,2
+4124,Xây dựng trang fanpage cho nhãn hàng Quần áo Đường phố đang hoạt động tại Shopee ,"Dự án Xây dựng trang fanpage cho nhãn hàng Quần áo Đường phố đang hoạt động tại Shopee.
+---
+Mục tiêu:
+- Mở tệp khách hàng tại Facebook
+- Tăng nhận diện và kết nối với khách hàng mục tiêu tại Facebook
+- Dẫn khách từ Facebook về chốt tại Shopee
+---
+Dự án đang nói đến là 1 nhãn hàng thời trang đường phố unisex phân khúc giá 150-250k là nhãn Việt đang bán hàng tại Shopee đã hoạt động ổn định >12 tháng và có doanh số trung bình 1-2 tỉ/tháng.",1,2
+4125,Xây dựng trang Instagram - Threads cho nhãn hàng Quần áo Đường phố đang hoạt động tại Shopee.,"Dự án Xây dựng trang Instagram - Threads cho nhãn hàng Quần áo Đường phố đang hoạt động tại Shopee.
+---
+Mục tiêu:
+- Mở tệp khách hàng tại Instagram - Threads
+- Tăng nhận diện và kết nối với khách hàng mục tiêu tại Instagram - Threads
+- Dẫn khách từ Instagram - Threads về chốt tại Shopee
+---
+Dự án đang nói đến là 1 nhãn hàng thời trang đường phố unisex phân khúc giá 150-250k là nhãn Việt đang bán hàng tại Shopee đã hoạt động ổn định >12 tháng và có doanh số trung bình 1-2 tỉ/tháng.",1,2
+4126,Digital Marketing Specialist ,sáng tạo nội dung,1,2
+4127,TUYỂN DỤNG CONTENT MARKETING -LÀM ONLINE - FULLTIME,"-Chịu trách nhiệm hoạch định kế hoạch nội dung & sản xuất nội dung chất lượng cao
+-Xây dựng hình ảnh phát triển các kênh bán hàng cho công ty, trọng tâm là Facebook và Tiktok
+Vai trò nhiệm vụ:
+- Lập kế hoạch trên Facebook và Tiktok
+- Làm việc với Photographer & Designer để sản xuất content mảng Mẹ & bé
+- Tìm kiếm và làm việc với KOCs
+- Quản lý & báo cáo hiệu quả content",2,1
+4128,Quảng cáo cho facebook cho quán cafe kèm quản lí đăng bài hằng ngày,"Thực hiện các quảng cáo để làm tăng follow và view cho bài viết, ngoài ra thực hiện quản lí page, 1-2 ngày ít nhất 1 bài viết liên quan, có tác dụng tăng tương tác. Trả lương theo kết quả thực tế. Thực tế ở đây là follow, tương tác, và lượng khách đến quán mỗi ngày. Nếu có thể làm lâu dài thì càng tốt. Trả lương theo kpi.",2,1
+4129,Maketing tìm kiếm khách hàng,Tạo và quản lý trang fanpage. Lên ý tưởng viết nội dung tìm kiếm khách hàng có nhu cầu học tiêng anh. ( focus vào đối tượng tài xế) đăng bài lên hội nhóm lái xe tư vấn và chốt lịch.,2,1
+4130,Mình cần 1 bạn Digital marketing phụ trách đa kênh cho công ty,"Chào các bạn,
+Mình cần 1 bạn Remote fulltime phụ trách:
+1. Làm video review sản phẩm, video liên quan đến các sản phẩm Up tiktok, reel và Youtube
+2. Triển khai Quảng cáo FB ads, google ads và Email marketing.
+Bạn nào làm được ib giúp nhé ạ.
+Sản phẩm công ty là Quà Tặng Doanh Nghiệp.
+Xin cảm ơn.",2,1
+4131,Quản lý và phát triển Youtube,quản lý kênh youtube,2,1
+4132,Cần tìm 1 bạn xây kênh tiktok về mảng FNB (nhà hàng),"Tuyển Freelancer Xây Dựng Kênh TikTok Về Booking Nhà Hàng GlobalX
+Mô tả công việc:
+Xây dựng và phát triển kênh TikTok chuyên về đặt chỗ nhà hàng cho hệ thống GlobalX. (lalaland, yoyo, phuc gia, chillhouse..)
+Chủ động tìm kiếm và tạo dựng các video liên quan đến nhà hàng, ẩm thực và trải nghiệm ăn uống. (sẽ được cung cấp thêm nhiều media...
+Chỉnh sửa video để đảm bảo phù hợp với quy định và tiêu chuẩn của TikTok.
+Liên tục cập nhật và đăng tải các video mới, theo kịp các xu hướng nổi bật trên TikTok.
+Quản lý và theo dõi kênh thường xuyên, đảm bảo kênh đạt được 200,000 lượt đăng ký.
+Tương tác và trả lời comment của người theo dõi để duy trì sự kết nối và tăng cường tương tác.",1,2
+4133,Marketing Coordinator (mạnh Design) ,Công ty Luật ở Quận Phú Nhuận cần 02 bạn Junior Marketing Full Time,2,1
+4134,Tìm Planner làm Proposal cho chiến dịch,"- Cùng team brainstorm idea và kế hoạch cho dự án triển khai
+- Research insight TA và thị trường mục tiêu của dự án
+- Có khả năng lên các content pillar, angle, tatics và demo post
+- Có kinh nghiệm làm proposal cho Agency và các dự án liên quan đến ngành Tài chính - Ngân hàng (nếu có)
+- Gửi kèm portfolio hoặc các dự án đã làm (có thể ẩn tên thương hiệu) khi nhận dự án",1,1
+4135,Tuyển freelancer Nghiên cứu thị trường,"Chào các bạn freelancer
+Bên mình đang cần tìm 1 số bạn freelancer cho công tác nghiên cứu thị trường, nội dung công việc cụ thể như sau:
+1. Hình thức tuyển dụng: Freelancer.
+2. Thời gian làm việc: 2 tuần ~ 1 tháng.
+3. Nội dung công việc
+・Research quy mô thị trường SaaS
+・Research quy mô thị trường và tiềm năng tăng trưởng trong lĩnh vực HR
+・Research các dịch vụ cạnh tranh của HR system (điểm mạnh, cơ cấu menu, giá cả của từng công ty...)
+・Research nhu cầu của khách hàng về HR theo ngành nghề
+・Báo cáo tóm tắt kết quả Research",1,2
+4136,Tuyển công tác cho cho chương trình marketing online ,"Tìm công tác viên để chạy chương trình marketing online, xây dựng kênh youtube, tiktok, fanpage...Sản phẩm: dịch vụ cố vấn phát triển nghề nghiệp.",2,1
+4137,Quảng cáo Tiktok cho xưởng bán lẻ,Mình cần một bên có sẵn tài nguyên để chạy quảng cáo Tiktok cho xưởng may quần áo.,1,2
+4138,CẦN TUYỂN ĐỐI TÁC CHẠY DIGITAL MARKETING,"Trường quốc tế cần tuyển 1 nhân sự chạy digital marketing. Căn bản là trên nền tảng FB. Ngoài ra có thể chạy thêm trên Google và các nền tảng khác.
+Làm online, đánh giá năng lực dựa trên kết quả. Khối lượng tương đương với 1 công việc bán thời gian.",1,2
+4139,"Tư vấn, lập kế hoạch & triển khai marketing online cho sản phẩm Tranh trang trí","Tư vấn, lập kế hoạch & triển khai marketing online cho sản phẩm Tranh trang trí.
+Mình là chủ xưởng sản xuất tranh, sản phẩm đang được bán tốt trên các sàn thương mại điện tử.",1,2

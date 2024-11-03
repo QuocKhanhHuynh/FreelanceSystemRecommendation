@@ -3,7 +3,7 @@ import csv
 
 def getDatabase():
     connection_string1 = 'Server=.;Database=freelancer_platform_v2;Trusted_Connection=True;Encrypt=False;MultipleActiveResultSets=true;'
-
+    '''
     DRIVER_NAME = 'SQl SERVER'
     SERVER_NAME = '.'
     DATABASE_NAME = 'freelancer_platform_v2'
@@ -14,7 +14,17 @@ def getDatabase():
         DATABASE={DATABASE_NAME};
         Trust_Connection=yes;
     """
+    '''
+    DRIVER_NAME = 'ODBC Driver 17 for SQL Server'
+    SERVER_NAME = 'localhost'
+    DATABASE_NAME = 'freelancer_platform_v2'
 
+    connection_string = f"""
+        DRIVER={{{DRIVER_NAME}}};
+        SERVER={SERVER_NAME};
+        DATABASE={DATABASE_NAME};
+        Trusted_Connection=yes;
+    """
     try:
         conn = odbc.connect(connection_string)
         print("Kết nối thành công:", conn)

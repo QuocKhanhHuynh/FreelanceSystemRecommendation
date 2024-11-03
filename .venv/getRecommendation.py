@@ -18,7 +18,7 @@ def getRecommend(inputTitle):
         row_similarities[row_index[0]] = -np.inf
 
         # Lấy chỉ số của các giá trị có độ tương đồng từ 0.7 trở lên
-        top_indices = np.where(row_similarities >= 0.5)[0]
+        top_indices = np.where(row_similarities >= 0.1)[0]
 
         # Sắp xếp các chỉ số này theo giá trị từ cao đến thấp
         top_indices = top_indices[np.argsort(row_similarities[top_indices])[::-1]]
