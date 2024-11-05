@@ -4,6 +4,7 @@ import processRawData as prd
 import processData as pd
 import getRecommendation as get
 import numpy as np
+from getRecommendationFreelancer import getRecommendationFreelancer as get2
 
 app = Flask(__name__)
 
@@ -29,9 +30,9 @@ def recommend(id):
         for x in result]
     return jsonify({"result": result})
 
-@app.route('/api/recommend2/<int:id>', methods=['GET'])
-def recommend2(id):
-    result = get.getRecommend2(id)
+@app.route('/api/recommendFeelancer/<int:id>', methods=['GET'])
+def recommendFeelancer(id):
+    result = get2(id);
     result = [
         int(x) if isinstance(x, (np.int64, np.int32)) else float(x) if isinstance(x, (np.float64, np.float32)) else x
         for x in result]
